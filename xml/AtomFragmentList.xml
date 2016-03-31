@@ -1,0 +1,1688 @@
+<?xml version="1.0"?>
+<atomFragmentList>
+	<atomFragment id="a1" atNo="1" period= "1" block="s" group="1" name="Hydrogen" symbol="H" charge="0" chargeCount="0" state="neutral" atomicMass="1.08" electroNegativity="2.2">
+		<electronLink id="a1e1" title="1s" electronStatus="uPair" type="1s" spin="1" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="3" period= "2" block="s" group="1" name="Lithium" symbol="Li" charge="0" chargeCount="0" state="neutral" atomicMass="6.94" electroNegativity="0.98">
+		<electronLink id="a1e1" title="2s" electronStatus="uPair" type="2s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="2p1" electronStatus="vacant" type="2px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="2p2" electronStatus="vacant" type="2py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="2p3" electronStatus="vacant" type="2pz" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="11" period= "3" block="s" group="1" name="Sodium" symbol="Na" charge="0" chargeCount="0" state="neutral" atomicMass="22.99" electroNegativity="0.93">
+		<electronLink id="a1e1" title="3s" electronStatus="uPair" type="3s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="3p1" electronStatus="vacant" type="3px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="3p2" electronStatus="vacant" type="3py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="3p3" electronStatus="vacant" type="3pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="3d1" electronStatus="vacant" type="3dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="3d2" electronStatus="vacant" type="3dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="3d3" electronStatus="vacant" type="3dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="3d4" electronStatus="vacant" type="3dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="3d5" electronStatus="vacant" type="3dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="19" period= "4" block="s" group="1" name="Potassium" symbol="K" charge="0" chargeCount="0" state="neutral" atomicMass="39.10" electroNegativity="0.82">
+		<electronLink id="a1e1" title="3d1" electronStatus="vacant" type="3dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="3d2" electronStatus="vacant" type="3dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="3d3" electronStatus="vacant" type="3dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="3d4" electronStatus="vacant" type="3dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="3d5" electronStatus="vacant" type="3dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4s" electronStatus="uPair" type="4s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4p1" electronStatus="vacant" type="4px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="4p2" electronStatus="vacant" type="4py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="4p3" electronStatus="vacant" type="4pz" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="37" period= "5" block="s" group="1" name="Rubidium" symbol="Rb" charge="0" chargeCount="0" state="neutral" atomicMass="85.47" electroNegativity="0.82">
+		<electronLink id="a1e1" title="4d1" electronStatus="vacant" type="4dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4d2" electronStatus="vacant" type="4dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4d3" electronStatus="vacant" type="4dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4d4" electronStatus="vacant" type="4dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4d5" electronStatus="vacant" type="4dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5s" electronStatus="uPair" type="5s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5p1" electronStatus="vacant" type="5px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5p2" electronStatus="vacant" type="5py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5p3" electronStatus="vacant" type="5pz" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="55" period= "6" block="s" group="1" name="Caesium" symbol="Cs" charge="0" chargeCount="0" state="neutral" atomicMass="132.91" electroNegativity="0.79">
+		<electronLink id="a1e1" title="5d1" electronStatus="vacant" type="5dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5d2" electronStatus="vacant" type="5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5d3" electronStatus="vacant" type="5dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5d4" electronStatus="vacant" type="5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5d5" electronStatus="vacant" type="5dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="6s" electronStatus="uPair" type="6s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="6p1" electronStatus="vacant" type="6px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6p2" electronStatus="vacant" type="6py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6p3" electronStatus="vacant" type="6pz" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment atNo="87" period= "7" block="s" group="1" name="Francium" symbol="Fr" charge="0" chargeCount="0" state="neutral" atomicMass="223.02" electroNegativity="0.7">
+		<electronLink id="a1e1" title="6d1" electronStatus="vacant" type="6dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="6d2" electronStatus="vacant" type="6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="6d3" electronStatus="vacant" type="6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="6d4" electronStatus="vacant" type="6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="6d5" electronStatus="vacant" type="6dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="7s" electronStatus="uPair" type="7s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="7p1" electronStatus="vacant" type="7px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="7p2" electronStatus="vacant" type="7py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="7p3" electronStatus="vacant" type="7pz" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment atNo="4" period= "2" block="s" group="2" name="Beryllium" symbol="Be" charge="0" chargeCount="0" state="neutral" atomicMass="9.01" electroNegativity="1.57">
+		<electronLink id="a1e1" title="2s" electronStatus="lPair" type="2s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="2p1" electronStatus="vacant" type="2px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="2p2" electronStatus="vacant" type="2py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="2p3" electronStatus="vacant" type="2pz" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment atNo="12" period= "3" block="s" group="2" name="Magnesium" symbol="Mg" charge="0" chargeCount="0" state="neutral" atomicMass="24.31" electroNegativity="1.31">
+		<electronLink id="a1e1" title="3s" electronStatus="lPair" type="3s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="3p1" electronStatus="vacant" type="3px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="3p2" electronStatus="vacant" type="3py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="3p3" electronStatus="vacant" type="3pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="3d1" electronStatus="vacant" type="3dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="3d2" electronStatus="vacant" type="3dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="3d3" electronStatus="vacant" type="3dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="3d4" electronStatus="vacant" type="3dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="3d5" electronStatus="vacant" type="3dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment atNo="20" period= "4" block="s" group="2" name="Calcium" symbol="Ca" charge="0" chargeCount="0" state="neutral" atomicMass="40.08" electroNegativity="1.00">
+		<electronLink id="a1e1" title="3d1" electronStatus="vacant" type="3dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="3d2" electronStatus="vacant" type="3dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="3d3" electronStatus="vacant" type="3dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="3d4" electronStatus="vacant" type="3dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="3d5" electronStatus="vacant" type="3dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4s" electronStatus="lPair" type="4s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4p1" electronStatus="vacant" type="4px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="4p2" electronStatus="vacant" type="4py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="4p3" electronStatus="vacant" type="4pz" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment atNo="38" period= "5" block="s" group="2" name="Strontium" symbol="Sr" charge="0" chargeCount="0" state="neutral" atomicMass="87.62" electroNegativity="0.95">
+		<electronLink id="a1e1" title="4d1" electronStatus="vacant" type="4dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4d2" electronStatus="vacant" type="4dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4d3" electronStatus="vacant" type="4dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4d4" electronStatus="vacant" type="4dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4d5" electronStatus="vacant" type="4dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5s" electronStatus="lPair" type="5s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5p1" electronStatus="vacant" type="5px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5p2" electronStatus="vacant" type="5py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5p3" electronStatus="vacant" type="5pz" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment atNo="56" period= "6" block="s" group="2" name="Barium" symbol="Ba" charge="0" chargeCount="0" state="neutral" atomicMass="137.33" electroNegativity="0.89">
+		<electronLink id="a1e1" title="5d1" electronStatus="vacant" type="5dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5d2" electronStatus="vacant" type="5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5d3" electronStatus="vacant" type="5dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5d4" electronStatus="vacant" type="5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5d5" electronStatus="vacant" type="5dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="6s" electronStatus="lPair" type="6s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="6p1" electronStatus="vacant" type="6px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6p2" electronStatus="vacant" type="6py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6p3" electronStatus="vacant" type="6pz" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment atNo="88" period= "7" block="s" group="2" name="Radium" symbol="Ra" charge="0" chargeCount="0" state="neutral" atomicMass="226.03" electroNegativity="0.9">
+		<electronLink id="a1e1" title="6d1" electronStatus="vacant" type="6dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="6d2" electronStatus="vacant" type="6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="6d3" electronStatus="vacant" type="6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="6d4" electronStatus="vacant" type="6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="6d5" electronStatus="vacant" type="6dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="7s" electronStatus="lPair" type="7s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="7p1" electronStatus="vacant" type="7px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="7p2" electronStatus="vacant" type="7py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="7p3" electronStatus="vacant" type="7pz" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<pBlock/>
+	<atomFragment id="a1" atNo="5" period= "2" block="p" group="13" name="Boron" symbol="B" charge="0" chargeCount="0" state="neutral" atomicMass="10.81" electroNegativity="2.04">
+		<electronLink id="a1e1" title="2s" electronStatus="lPair" type="2s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="2p1" electronStatus="uPair" type="2px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="2p2" electronStatus="vacant" type="2py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="2p3" electronStatus="vacant" type="2pz" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="13" period= "3" block="p" group="13" name="Aluminium" symbol="Al" charge="0" chargeCount="0" state="neutral" atomicMass="26.99" electroNegativity="1.61">
+		<electronLink id="a1e1" title="3s" electronStatus="lPair" type="3s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="3p1" electronStatus="uPair" type="3px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="3p2" electronStatus="vacant" type="3py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="3p3" electronStatus="vacant" type="3pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="3d1" electronStatus="vacant" type="3dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="3d2" electronStatus="vacant" type="3dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="3d3" electronStatus="vacant" type="3dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="3d4" electronStatus="vacant" type="3dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="3d5" electronStatus="vacant" type="3dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="31" period= "4" block="p" group="13" name="Gallium" symbol="Ga" charge="0" chargeCount="0" state="neutral" atomicMass="69.72" electroNegativity="1.81">
+		<electronLink id="a1e1" title="4s" electronStatus="lPair" type="4s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4p1" electronStatus="uPair" type="4px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4p2" electronStatus="vacant" type="4py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4p3" electronStatus="vacant" type="4pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4d1" electronStatus="vacant" type="4dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4d2" electronStatus="vacant" type="4dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4d3" electronStatus="vacant" type="4dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="4d4" electronStatus="vacant" type="4dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="4d5" electronStatus="vacant" type="4dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="49" period= "5" block="p" group="13" name="Indium" symbol="In" charge="0" chargeCount="0" state="neutral" atomicMass="114.82" electroNegativity="1.78">
+		<electronLink id="a1e1" title="5s" electronStatus="lPair" type="5s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5p1" electronStatus="uPair" type="5px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5p2" electronStatus="vacant" type="5py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5p3" electronStatus="vacant" type="5pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5d1" electronStatus="vacant" type="5dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5d2" electronStatus="vacant" type="5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5d3" electronStatus="vacant" type="5dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5d4" electronStatus="vacant" type="5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5d5" electronStatus="vacant" type="5dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="81" period= "6" block="p" group="13" name="Thallium" symbol="Tl" charge="0" chargeCount="0" state="neutral" atomicMass="204.38" electroNegativity="1.62">
+		<electronLink id="a1e1" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="6p1" electronStatus="uPair" type="6px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="6p2" electronStatus="vacant" type="6py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="6p3" electronStatus="vacant" type="6pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="6d1" electronStatus="vacant" type="6dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="6d2" electronStatus="vacant" type="6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="6d3" electronStatus="vacant" type="6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6d4" electronStatus="vacant" type="6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6d5" electronStatus="vacant" type="6dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="113" period= "7" block="p" group="13" name="Ununtrium" symbol="Uut" charge="0" chargeCount="0" state="neutral" atomicMass="283" electroNegativity="">
+		<electronLink id="a1e1" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="7p1" electronStatus="uPair" type="7px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="7p2" electronStatus="vacant" type="7py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="7p3" electronStatus="vacant" type="7pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="7d1" electronStatus="vacant" type="7dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="7d2" electronStatus="vacant" type="7dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="7d3" electronStatus="vacant" type="7dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="7d4" electronStatus="vacant" type="7dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="7d5" electronStatus="vacant" type="7dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="6" period= "2" block="p" group="14" name="Carbon" symbol="C" charge="0" chargeCount="0" state="neutral" atomicMass="12.01" electroNegativity="2.55">
+		<electronLink id="a1e1" title="2s" electronStatus="lPair" type="2s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="2p1" electronStatus="uPair" type="2px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="2p2" electronStatus="uPair" type="2py" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="2p3" electronStatus="vacant" type="2pz" spin="1" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="14" period= "3" block="p" group="14" name="Silicon" symbol="Si" charge="0" chargeCount="0" state="neutral" atomicMass="28.09" electroNegativity="1.90">
+		<electronLink id="a1e1" title="3s" electronStatus="lPair" type="3s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="3p1" electronStatus="uPair" type="3px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="3p2" electronStatus="uPair" type="3py" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="3p3" electronStatus="vacant" type="3pz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="3d1" electronStatus="vacant" type="3dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="3d2" electronStatus="vacant" type="3dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="3d3" electronStatus="vacant" type="3dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="3d4" electronStatus="vacant" type="3dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="3d5" electronStatus="vacant" type="3dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	
+	<atomFragment id="a1" atNo="32" period= "4" block="p" group="14" name="Germanium" symbol="Ge" charge="0" chargeCount="0" state="neutral" atomicMass="72.61" electroNegativity="2.01">
+		<electronLink id="a1e1" title="4s" electronStatus="lPair" type="4s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4p1" electronStatus="uPair" type="4px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4p2" electronStatus="uPair" type="4py" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4p3" electronStatus="vacant" type="4pz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4d1" electronStatus="vacant" type="4dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4d2" electronStatus="vacant" type="4dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4d3" electronStatus="vacant" type="4dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="4d4" electronStatus="vacant" type="4dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="4d5" electronStatus="vacant" type="4dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="50" period= "5" block="p" group="14" name="Tin" symbol="Sn" charge="0" chargeCount="0" state="neutral" atomicMass="118.71" electroNegativity="1.96">
+		<electronLink id="a1e1" title="5s" electronStatus="lPair" type="5s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5p1" electronStatus="uPair" type="5px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5p2" electronStatus="uPair" type="5py" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5p3" electronStatus="vacant" type="5pz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5d1" electronStatus="vacant" type="5dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5d2" electronStatus="vacant" type="5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5d3" electronStatus="vacant" type="5dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5d4" electronStatus="vacant" type="5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5d5" electronStatus="vacant" type="5dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="82" period= "6" block="p" group="14" name="Lead" symbol="Pb" charge="0" chargeCount="0" state="neutral" atomicMass="207.2" electroNegativity="2.33">
+		<electronLink id="a1e1" title="6s" electronStatus="lPair" type="6s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="6p1" electronStatus="uPair" type="6px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="6p2" electronStatus="uPair" type="6py" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="6p3" electronStatus="vacant" type="6pz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="6d1" electronStatus="vacant" type="6dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="6d2" electronStatus="vacant" type="6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="6d3" electronStatus="vacant" type="6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6d4" electronStatus="vacant" type="6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6d5" electronStatus="vacant" type="6dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="114" period= "7" block="p" group="14" name="Flerovium" symbol="Fl" charge="0" chargeCount="0" state="neutral" atomicMass="285" electroNegativity="">
+		<electronLink id="a1e1" title="7s" electronStatus="lPair" type="7s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="7p1" electronStatus="uPair" type="7px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="7p2" electronStatus="uPair" type="7py" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="7p3" electronStatus="vacant" type="7pz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="7d1" electronStatus="vacant" type="7dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="7d2" electronStatus="vacant" type="7dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="7d3" electronStatus="vacant" type="7dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="7d4" electronStatus="vacant" type="7dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="7d5" electronStatus="vacant" type="7dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="7" period= "2" block="p" group="15" name="Nitrogen" symbol="N" charge="0" chargeCount="0" state="neutral" atomicMass="14.01" electroNegativity="3.04">
+		<electronLink id="a1e1" title="2s" electronStatus="lPair" type="2s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="2p1" electronStatus="uPair" type="2px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="2p2" electronStatus="uPair" type="2py" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="2p3" electronStatus="uPair" type="2pz" spin="1" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="15" period= "3" block="p" group="15" name="Phosphorus" symbol="P" charge="0" chargeCount="0" state="neutral" atomicMass="30.98" electroNegativity="2.19">
+		<electronLink id="a1e1" title="3s" electronStatus="lPair" type="3s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="3p1" electronStatus="uPair" type="3px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="3p2" electronStatus="uPair" type="3py" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="3p3" electronStatus="uPair" type="3pz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="3d1" electronStatus="vacant" type="3dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="3d2" electronStatus="vacant" type="3dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="3d3" electronStatus="vacant" type="3dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="3d4" electronStatus="vacant" type="3dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="3d5" electronStatus="vacant" type="3dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="33" period= "4" block="p" group="15" name="Arsenic" symbol="As" charge="0" chargeCount="0" state="neutral" atomicMass="74.92" electroNegativity="2.18">
+		<electronLink id="a1e1" title="4s" electronStatus="lPair" type="4s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4p1" electronStatus="uPair" type="4px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4p2" electronStatus="uPair" type="4py" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4p3" electronStatus="uPair" type="4pz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4d1" electronStatus="vacant" type="4dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4d2" electronStatus="vacant" type="4dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4d3" electronStatus="vacant" type="4dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="4d4" electronStatus="vacant" type="4dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="4d5" electronStatus="vacant" type="4dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="51" period= "5" block="p" group="15" name="Antimony" symbol="Sb" charge="0" chargeCount="0" state="neutral" atomicMass="121.76" electroNegativity="2.05">
+		<electronLink id="a1e1" title="5s" electronStatus="lPair" type="5s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5p1" electronStatus="uPair" type="5px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5p2" electronStatus="uPair" type="5py" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5p3" electronStatus="uPair" type="5pz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5d1" electronStatus="vacant" type="5dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5d2" electronStatus="vacant" type="5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5d3" electronStatus="vacant" type="5dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5d4" electronStatus="vacant" type="5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5d5" electronStatus="vacant" type="5dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="83" period= "6" block="p" group="15" name="Bismuth" symbol="Bi" charge="0" chargeCount="0" state="neutral" atomicMass="208.98" electroNegativity="2.02">
+		<electronLink id="a1e1" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="6p1" electronStatus="uPair" type="6px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="6p2" electronStatus="uPair" type="6py" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="6p3" electronStatus="uPair" type="6pz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="6d1" electronStatus="vacant" type="6dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="6d2" electronStatus="vacant" type="6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="6d3" electronStatus="vacant" type="6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6d4" electronStatus="vacant" type="6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6d5" electronStatus="vacant" type="6dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="115" period= "7" block="p" group="15" name="Ununpentium" symbol="Uup" charge="0" chargeCount="0" state="neutral" atomicMass="287" electroNegativity="">
+		<electronLink id="a1e1" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="7p1" electronStatus="uPair" type="7px" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="7p2" electronStatus="uPair" type="7py" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="7p3" electronStatus="uPair" type="7pz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="7d1" electronStatus="vacant" type="7dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="7d2" electronStatus="vacant" type="7dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="7d3" electronStatus="vacant" type="7dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="7d4" electronStatus="vacant" type="7dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="7d5" electronStatus="vacant" type="7dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="8" period= "2" block="p" group="16" name="Oxygen" symbol="O" charge="0" chargeCount="0" state="neutral" atomicMass="16.00" electroNegativity="3.44">
+		<electronLink id="a1e1" title="2s" electronStatus="lPair" type="2s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="2p1" electronStatus="lPair" type="2px" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="2p2" electronStatus="uPair" type="2py" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="2p3" electronStatus="uPair" type="2pz" spin="1" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="16" period= "3" block="p" group="16" name="Sulfur" symbol="S" charge="0" chargeCount="0" state="neutral" atomicMass="32.07" electroNegativity="2.58">
+		<electronLink id="a1e1" title="3s" electronStatus="lPair" type="3s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="3p1" electronStatus="lPair" type="3px" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="3p2" electronStatus="uPair" type="3py" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="3p3" electronStatus="uPair" type="3pz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="3d1" electronStatus="vacant" type="3dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="3d2" electronStatus="vacant" type="3dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="3d3" electronStatus="vacant" type="3dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="3d4" electronStatus="vacant" type="3dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="3d5" electronStatus="vacant" type="3dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="34" period= "4" block="p" group="16" name="Selenium" symbol="Se" charge="0" chargeCount="0" state="neutral" atomicMass="78.96" electroNegativity="2.55">
+		<electronLink id="a1e1" title="4s" electronStatus="lPair" type="4s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4p1" electronStatus="lPair" type="4px" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4p2" electronStatus="uPair" type="4py" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4p3" electronStatus="uPair" type="4pz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4d1" electronStatus="vacant" type="4dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4d2" electronStatus="vacant" type="4dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4d3" electronStatus="vacant" type="4dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="4d4" electronStatus="vacant" type="4dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="4d5" electronStatus="vacant" type="4dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="52" period= "5" block="p" group="16" name="Tellurium" symbol="Te" charge="0" chargeCount="0" state="neutral" atomicMass="127.60" electroNegativity="2.1">
+		<electronLink id="a1e1" title="5s" electronStatus="lPair" type="5s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5p1" electronStatus="lPair" type="5px" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5p2" electronStatus="uPair" type="5py" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5p3" electronStatus="uPair" type="5pz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5d1" electronStatus="vacant" type="5dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5d2" electronStatus="vacant" type="5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5d3" electronStatus="vacant" type="5dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5d4" electronStatus="vacant" type="5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5d5" electronStatus="vacant" type="5dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="84" period= "6" block="p" group="16" name="Polonium" symbol="Po" charge="0" chargeCount="0" state="neutral" atomicMass="209.98" electroNegativity="2.0">
+		<electronLink id="a1e1" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="6p1" electronStatus="lPair" type="6px" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="6p2" electronStatus="uPair" type="6py" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="6p3" electronStatus="uPair" type="6pz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="6d1" electronStatus="vacant" type="6dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="6d2" electronStatus="vacant" type="6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="6d3" electronStatus="vacant" type="6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6d4" electronStatus="vacant" type="6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6d5" electronStatus="vacant" type="6dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="116" period= "7" block="p" group="16" name="Livermorium" symbol="Lv" charge="0" chargeCount="0" state="neutral" atomicMass="289" electroNegativity="">
+		<electronLink id="a1e1" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="7p1" electronStatus="lPair" type="7px" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="7p2" electronStatus="uPair" type="7py" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="7p3" electronStatus="uPair" type="7pz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="7d1" electronStatus="vacant" type="7dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="7d2" electronStatus="vacant" type="7dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="7d3" electronStatus="vacant" type="7dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="7d4" electronStatus="vacant" type="7dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="7d5" electronStatus="vacant" type="7dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="9" period= "2" block="p" group="17" name="Fluorine" symbol="F" charge="0" chargeCount="0" state="neutral" atomicMass="19.00" electroNegativity="3.98">
+		<electronLink id="a1e1" title="2s" electronStatus="lPair" type="2s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="2p1" electronStatus="lPair" type="2px" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="2p2" electronStatus="lPair" type="2py" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="2p3" electronStatus="uPair" type="2pz" spin="1" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="17" period= "3" block="p" group="17" name="Chlorine" symbol="Cl" charge="0" chargeCount="0" state="neutral" atomicMass="35.45" electroNegativity="3.16">
+		<electronLink id="a1e1" title="3s" electronStatus="lPair" type="3s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="3p1" electronStatus="lPair" type="3px" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="3p2" electronStatus="lPair" type="3py" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="3p3" electronStatus="uPair" type="3pz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="3d1" electronStatus="vacant" type="3dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="3d2" electronStatus="vacant" type="3dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="3d3" electronStatus="vacant" type="3dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="3d4" electronStatus="vacant" type="3dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="3d5" electronStatus="vacant" type="3dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="35" period= "4" block="p" group="17" name="Bromine" symbol="Br" charge="0" chargeCount="0" state="neutral" atomicMass="79.90" electroNegativity="2.96">
+		<electronLink id="a1e1" title="4s" electronStatus="lPair" type="4s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4p1" electronStatus="lPair" type="4px" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4p2" electronStatus="lPair" type="4py" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4p3" electronStatus="uPair" type="4pz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4d1" electronStatus="vacant" type="4dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4d2" electronStatus="vacant" type="4dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4d3" electronStatus="vacant" type="4dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="4d4" electronStatus="vacant" type="4dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="4d5" electronStatus="vacant" type="4dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="53" period= "5" block="p" group="17" name="Iodine" symbol="I" charge="0" chargeCount="0" state="neutral" atomicMass="126.90" electroNegativity="2.66">
+		<electronLink id="a1e1" title="5s" electronStatus="lPair" type="5s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5p1" electronStatus="lPair" type="5px" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5p2" electronStatus="lPair" type="5py" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5p3" electronStatus="uPair" type="5pz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5d1" electronStatus="vacant" type="5dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5d2" electronStatus="vacant" type="5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5d3" electronStatus="vacant" type="5dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5d4" electronStatus="vacant" type="5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5d5" electronStatus="vacant" type="5dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="85" period= "6" block="p" group="17" name="Astatine" symbol="At" charge="0" chargeCount="0" state="neutral" atomicMass="209.99" electroNegativity="2.2">
+		<electronLink id="a1e1" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="6p1" electronStatus="lPair" type="6px" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="6p2" electronStatus="lPair" type="6py" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="6p3" electronStatus="uPair" type="6pz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="6d1" electronStatus="vacant" type="6dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="6d2" electronStatus="vacant" type="6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="6d3" electronStatus="vacant" type="6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6d4" electronStatus="vacant" type="6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6d5" electronStatus="vacant" type="6dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="117" period= "7" block="p" group="17" name="Ununseptium" symbol="Uus" charge="0" chargeCount="0" state="neutral" atomicMass="291" electroNegativity="">
+		<electronLink id="a1e1" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="7p1" electronStatus="lPair" type="7px" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="7p2" electronStatus="lPair" type="7py" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="7p3" electronStatus="uPair" type="7pz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="7d1" electronStatus="vacant" type="7dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="7d2" electronStatus="vacant" type="7dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="7d3" electronStatus="vacant" type="7dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="7d4" electronStatus="vacant" type="7dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="7d5" electronStatus="vacant" type="7dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="2" period= "1" block="p" group="18" name="Helium" symbol="He" charge="0" chargeCount="0" state="neutral" atomicMass="4.00" electroNegativity="">
+		<electronLink id="a1e1" title="1s" electronStatus="lPair" type="1s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="10" period= "2" block="p" group="18" name="Neon" symbol="Ne" charge="0" chargeCount="0" state="neutral" atomicMass="20.18" electroNegativity="">
+		<electronLink id="a1e1" title="2s" electronStatus="lPair" type="2s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="2p1" electronStatus="lPair" type="2px" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="2p2" electronStatus="lPair" type="2py" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="2p3" electronStatus="lPair" type="2pz" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	<atomFragment id="a1" atNo="18" period= "3" block="p" group="18" name="Argon" symbol="Ar" charge="0" chargeCount="0" state="neutral" atomicMass="39.95" electroNegativity="">
+		<electronLink id="a1e1" title="3s" electronStatus="lPair" type="3s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="3p1" electronStatus="lPair" type="3px" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="3p2" electronStatus="lPair" type="3py" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="3p3" electronStatus="lPair" type="3pz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="3d1" electronStatus="vacant" type="3dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="3d2" electronStatus="vacant" type="3dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="3d3" electronStatus="vacant" type="3dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="3d4" electronStatus="vacant" type="3dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="3d5" electronStatus="vacant" type="3dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	<atomFragment id="a1" atNo="36" period= "4" block="p" group="18" name="Krypton" symbol="Kr" charge="0" chargeCount="0" state="neutral" atomicMass="83.80" electroNegativity="">
+		<electronLink id="a1e1" title="4s" electronStatus="lPair" type="4s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4p1" electronStatus="lPair" type="4px" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4p2" electronStatus="lPair" type="4py" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4p3" electronStatus="lPair" type="4pz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4d1" electronStatus="vacant" type="4dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4d2" electronStatus="vacant" type="4dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4d3" electronStatus="vacant" type="4dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="4d4" electronStatus="vacant" type="4dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="4d5" electronStatus="vacant" type="4dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	<atomFragment id="a1" atNo="54" period= "5" block="p" group="18" name="Xenon" symbol="Xe" charge="0" chargeCount="0" state="neutral" atomicMass="131.29" electroNegativity="">
+		<electronLink id="a1e1" title="5s" electronStatus="lPair" type="5s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5p1" electronStatus="lPair" type="5px" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5p2" electronStatus="lPair" type="5py" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5p3" electronStatus="lPair" type="5pz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5d1" electronStatus="vacant" type="5dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5d2" electronStatus="vacant" type="5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5d3" electronStatus="vacant" type="5dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5d4" electronStatus="vacant" type="5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5d5" electronStatus="vacant" type="5dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	<atomFragment id="a1" atNo="86" period= "6" block="p" group="18" name="Radon" symbol="Rn" charge="0" chargeCount="0" state="neutral" atomicMass="222.02" electroNegativity="">
+		<electronLink id="a1e1" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="6p1" electronStatus="lPair" type="6px" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="6p2" electronStatus="lPair" type="6py" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="6p3" electronStatus="lPair" type="6pz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="6d1" electronStatus="vacant" type="6dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="6d2" electronStatus="vacant" type="6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="6d3" electronStatus="vacant" type="6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6d4" electronStatus="vacant" type="6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6d5" electronStatus="vacant" type="6dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	<atomFragment id="a1" atNo="118" period= "7" block="p" group="18" name="Ununoctium" symbol="Uuo" charge="0" chargeCount="0" state="neutral" atomicMass="293" electroNegativity="">
+		<electronLink id="a1e1" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="7p1" electronStatus="lPair" type="7px" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="7p2" electronStatus="lPair" type="7py" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="7p3" electronStatus="lPair" type="7pz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="7d1" electronStatus="vacant" type="7dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="7d2" electronStatus="vacant" type="7dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="7d3" electronStatus="vacant" type="7dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="7d4" electronStatus="vacant" type="7dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="7d5" electronStatus="vacant" type="7dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	
+	
+	<dBlock/>
+	<atomFragment id="a1" atNo="21" period= "4" block="d" group="3" name="Scandium" symbol="Sc" charge="0" chargeCount="0" state="neutral" atomicMass="44.96" electroNegativity="1.36">
+		<electronLink id="a1e1" title="3d1" electronStatus="uPair" type="i-3dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="3d2" electronStatus="vacant" type="i-3dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="3d3" electronStatus="vacant" type="i-3dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="3d4" electronStatus="vacant" type="i-3dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="3d5" electronStatus="vacant" type="i-3dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4s" electronStatus="lPair" type="4s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4p1" electronStatus="vacant" type="4px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="4p2" electronStatus="vacant" type="4py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="4p3" electronStatus="vacant" type="4pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="4d1" electronStatus="vacant" type="o-4dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="4d2" electronStatus="vacant" type="o-4dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="4d3" electronStatus="vacant" type="o-4dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="4d4" electronStatus="vacant" type="o-4dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="4d5" electronStatus="vacant" type="o-4dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="22" period= "4" block="d" group="4" name="Titanium" symbol="Ti" charge="0" chargeCount="0" state="neutral" atomicMass="47.67" electroNegativity="1.54">
+		<electronLink id="a1e1" title="3d1" electronStatus="uPair" type="i-3dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="3d2" electronStatus="uPair" type="i-3dyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="3d3" electronStatus="vacant" type="i-3dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="3d4" electronStatus="vacant" type="i-3dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="3d5" electronStatus="vacant" type="i-3dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4s" electronStatus="lPair" type="4s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4p1" electronStatus="vacant" type="4px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="4p2" electronStatus="vacant" type="4py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="4p3" electronStatus="vacant" type="4pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="4d1" electronStatus="vacant" type="o-4dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="4d2" electronStatus="vacant" type="o-4dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="4d3" electronStatus="vacant" type="o-4dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="4d4" electronStatus="vacant" type="o-4dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="4d5" electronStatus="vacant" type="o-4dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="23" period= "4" block="d" group="5" name="Vanadium" symbol="V" charge="0" chargeCount="0" state="neutral" atomicMass="50.94" electroNegativity="1.63">
+		<electronLink id="a1e1" title="3d1" electronStatus="uPair" type="i-3dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="3d2" electronStatus="uPair" type="i-3dyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="3d3" electronStatus="uPair" type="i-3dzx" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="3d4" electronStatus="vacant" type="i-3dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="3d5" electronStatus="vacant" type="i-3dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4s" electronStatus="lPair" type="4s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4p1" electronStatus="vacant" type="4px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="4p2" electronStatus="vacant" type="4py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="4p3" electronStatus="vacant" type="4pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="4d1" electronStatus="vacant" type="o-4dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="4d2" electronStatus="vacant" type="o-4dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="4d3" electronStatus="vacant" type="o-4dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="4d4" electronStatus="vacant" type="o-4dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="4d5" electronStatus="vacant" type="o-4dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="24" period= "4" block="d" group="6" name="Chromium" symbol="Cr" charge="0" chargeCount="0" state="neutral" atomicMass="51.97" electroNegativity="1.66">
+		<electronLink id="a1e1" title="3d1" electronStatus="uPair" type="i-3dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="3d2" electronStatus="uPair" type="i-3dyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="3d3" electronStatus="uPair" type="i-3dzx" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="3d4" electronStatus="uPair" type="i-3dx2-y2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="3d5" electronStatus="vacant" type="i-3dz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4s" electronStatus="lPair" type="4s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4p1" electronStatus="vacant" type="4px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="4p2" electronStatus="vacant" type="4py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="4p3" electronStatus="vacant" type="4pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="4d1" electronStatus="vacant" type="o-4dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="4d2" electronStatus="vacant" type="o-4dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="4d3" electronStatus="vacant" type="o-4dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="4d4" electronStatus="vacant" type="o-4dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="4d5" electronStatus="vacant" type="o-4dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="25" period= "4" block="d" group="7" name="Manganese" symbol="Mn" charge="0" chargeCount="0" state="neutral" atomicMass="54.94" electroNegativity="1.55">
+		<electronLink id="a1e1" title="3d1" electronStatus="uPair" type="i-3dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="3d2" electronStatus="uPair" type="i-3dyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="3d3" electronStatus="uPair" type="i-3dzx" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="3d4" electronStatus="uPair" type="i-3dx2-y2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="3d5" electronStatus="uPair" type="i-3dz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4s" electronStatus="lPair" type="4s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4p1" electronStatus="vacant" type="4px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="4p2" electronStatus="vacant" type="4py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="4p3" electronStatus="vacant" type="4pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="4d1" electronStatus="vacant" type="o-4dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="4d2" electronStatus="vacant" type="o-4dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="4d3" electronStatus="vacant" type="o-4dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="4d4" electronStatus="vacant" type="o-4dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="4d5" electronStatus="vacant" type="o-4dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="26" period= "4" block="d" group="8" name="Iron" symbol="Fe" charge="0" chargeCount="0" state="neutral" atomicMass="55.85" electroNegativity="1.83">
+		<electronLink id="a1e1" title="3d1" electronStatus="lPair" type="i-3dxy" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="3d2" electronStatus="uPair" type="i-3dyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="3d3" electronStatus="uPair" type="i-3dzx" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="3d4" electronStatus="uPair" type="i-3dx2-y2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="3d5" electronStatus="uPair" type="i-3dz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4s" electronStatus="lPair" type="4s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4p1" electronStatus="vacant" type="4px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="4p2" electronStatus="vacant" type="4py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="4p3" electronStatus="vacant" type="4pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="4d1" electronStatus="vacant" type="o-4dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="4d2" electronStatus="vacant" type="o-4dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="4d3" electronStatus="vacant" type="o-4dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="4d4" electronStatus="vacant" type="o-4dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="4d5" electronStatus="vacant" type="o-4dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="27" period= "4" block="d" group="9" name="Cobalt" symbol="Co" charge="0" chargeCount="0" state="neutral" atomicMass="58.93" electroNegativity="1.88">
+		<electronLink id="a1e1" title="3d1" electronStatus="lPair" type="i-3dxy" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="3d2" electronStatus="lPair" type="i-3dyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="3d3" electronStatus="uPair" type="i-3dzx" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="3d4" electronStatus="uPair" type="i-3dx2-y2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="3d5" electronStatus="uPair" type="i-3dz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4s" electronStatus="lPair" type="4s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4p1" electronStatus="vacant" type="4px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="4p2" electronStatus="vacant" type="4py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="4p3" electronStatus="vacant" type="4pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="4d1" electronStatus="vacant" type="o-4dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="4d2" electronStatus="vacant" type="o-4dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="4d3" electronStatus="vacant" type="o-4dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="4d4" electronStatus="vacant" type="o-4dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="4d5" electronStatus="vacant" type="o-4dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="28" period= "4" block="d" group="10" name="Nickel" symbol="Ni" charge="0" chargeCount="0" state="neutral" atomicMass="58.69" electroNegativity="1.91">
+		<electronLink id="a1e1" title="3d1" electronStatus="lPair" type="i-3dxy" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="3d2" electronStatus="lPair" type="i-3dyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="3d3" electronStatus="lPair" type="i-3dzx" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="3d4" electronStatus="uPair" type="i-3dx2-y2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="3d5" electronStatus="uPair" type="i-3dz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4s" electronStatus="lPair" type="4s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4p1" electronStatus="vacant" type="4px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="4p2" electronStatus="vacant" type="4py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="4p3" electronStatus="vacant" type="4pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="4d1" electronStatus="vacant" type="o-4dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="4d2" electronStatus="vacant" type="o-4dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="4d3" electronStatus="vacant" type="o-4dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="4d4" electronStatus="vacant" type="o-4dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="4d5" electronStatus="vacant" type="o-4dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="29" period= "4" block="d" group="11" name="Copper" symbol="Cu" charge="0" chargeCount="0" state="neutral" atomicMass="63.55" electroNegativity="1.9">
+		<electronLink id="a1e1" title="3d1" electronStatus="lPair" type="i-3dxy" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="3d2" electronStatus="lPair" type="i-3dyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="3d3" electronStatus="lPair" type="i-3dzx" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="3d4" electronStatus="lPair" type="i-3dx2-y2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="3d5" electronStatus="uPair" type="i-3dz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4s" electronStatus="lPair" type="4s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4p1" electronStatus="vacant" type="4px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="4p2" electronStatus="vacant" type="4py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="4p3" electronStatus="vacant" type="4pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="4d1" electronStatus="vacant" type="o-4dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="4d2" electronStatus="vacant" type="o-4dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="4d3" electronStatus="vacant" type="o-4dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="4d4" electronStatus="vacant" type="o-4dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="4d5" electronStatus="vacant" type="o-4dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="30" period= "4" block="d" group="12" name="Zinc" symbol="Zn" charge="0" chargeCount="0" state="neutral" atomicMass="65.40" electroNegativity="1.65">
+		<electronLink id="a1e1" title="3d1" electronStatus="lPair" type="i-3dxy" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="3d2" electronStatus="lPair" type="i-3dyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="3d3" electronStatus="lPair" type="i-3dzx" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="3d4" electronStatus="lPair" type="i-3dx2-y2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="3d5" electronStatus="lPair" type="i-3dz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4s" electronStatus="lPair" type="4s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4p1" electronStatus="vacant" type="4px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="4p2" electronStatus="vacant" type="4py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="4p3" electronStatus="vacant" type="4pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="4d1" electronStatus="vacant" type="o-4dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="4d2" electronStatus="vacant" type="o-4dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="4d3" electronStatus="vacant" type="o-4dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="4d4" electronStatus="vacant" type="o-4dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="4d5" electronStatus="vacant" type="o-4dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	
+	<atomFragment id="a1" atNo="39" period= "5" block="d" group="3" name="Yttrium" symbol="Y" charge="0" chargeCount="0" state="neutral" atomicMass="88.91" electroNegativity="1.22">
+		<electronLink id="a1e1" title="4d1" electronStatus="uPair" type="i-4dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4d2" electronStatus="vacant" type="i-4dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4d3" electronStatus="vacant" type="i-4dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4d4" electronStatus="vacant" type="i-4dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4d5" electronStatus="vacant" type="i-4dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5s" electronStatus="lPair" type="5s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5p1" electronStatus="vacant" type="5px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5p2" electronStatus="vacant" type="5py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5p3" electronStatus="vacant" type="5pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d1" electronStatus="vacant" type="o-5dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d2" electronStatus="vacant" type="o-5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d3" electronStatus="vacant" type="o-5dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="5d4" electronStatus="vacant" type="o-5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="5d5" electronStatus="vacant" type="o-5dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+		
+	<atomFragment id="a1" atNo="57" period= "6" block="d" group="3" name="Lanthanum" symbol="La" charge="0" chargeCount="0" state="neutral" atomicMass="138.91" electroNegativity="1.10">
+		<electronLink id="a1e1" title="5d1" electronStatus="uPair" type="i-5dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5d2" electronStatus="vacant" type="i-5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5d3" electronStatus="vacant" type="i-5dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5d4" electronStatus="vacant" type="i-5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5d5" electronStatus="vacant" type="i-5dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="6p1" electronStatus="vacant" type="6px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6p2" electronStatus="vacant" type="6py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6p3" electronStatus="vacant" type="6pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d1" electronStatus="vacant" type="o-6dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d2" electronStatus="vacant" type="o-6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d3" electronStatus="vacant" type="o-6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6d4" electronStatus="vacant" type="o-6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="6d5" electronStatus="vacant" type="o-6dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="89" period= "7" block="d" group="3" name="Actinium" symbol="Ac" charge="0" chargeCount="0" state="neutral" atomicMass="227.03" electroNegativity="1.1">
+		<electronLink id="a1e1" title="6d1" electronStatus="uPair" type="i-6dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="6d2" electronStatus="vacant" type="i-6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="6d3" electronStatus="vacant" type="i-6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="6d4" electronStatus="vacant" type="i-6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="6d5" electronStatus="vacant" type="i-6dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="7p1" electronStatus="vacant" type="7px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="7p2" electronStatus="vacant" type="7py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="7p3" electronStatus="vacant" type="7pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="7d1" electronStatus="vacant" type="o-7dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="7d2" electronStatus="vacant" type="o-7dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="7d3" electronStatus="vacant" type="o-7dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7d4" electronStatus="vacant" type="o-7dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="7d5" electronStatus="vacant" type="o-7dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+		
+	<atomFragment id="a1" atNo="40" period= "5" block="d" group="4" name="Zirconium" symbol="Zr" charge="0" chargeCount="0" state="neutral" atomicMass="91.22" electroNegativity="1.33">
+		<electronLink id="a1e1" title="4d1" electronStatus="uPair" type="i-4dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4d2" electronStatus="uPair" type="i-4dyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4d3" electronStatus="vacant" type="i-4dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4d4" electronStatus="vacant" type="i-4dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4d5" electronStatus="vacant" type="i-4dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5s" electronStatus="lPair" type="5s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5p1" electronStatus="vacant" type="5px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5p2" electronStatus="vacant" type="5py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5p3" electronStatus="vacant" type="5pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d1" electronStatus="vacant" type="o-5dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d2" electronStatus="vacant" type="o-5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d3" electronStatus="vacant" type="o-5dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="5d4" electronStatus="vacant" type="o-5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="5d5" electronStatus="vacant" type="o-5dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="72" period= "6" block="d" group="4" name="Hafnium" symbol="Hf" charge="0" chargeCount="0" state="neutral" atomicMass="178.49" electroNegativity="1.3">
+		<electronLink id="a1e1" title="5d1" electronStatus="uPair" type="i-5dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5d2" electronStatus="uPair" type="i-5dyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5d3" electronStatus="vacant" type="i-5dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5d4" electronStatus="vacant" type="i-5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5d5" electronStatus="vacant" type="i-5dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="6p1" electronStatus="vacant" type="6px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6p2" electronStatus="vacant" type="6py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6p3" electronStatus="vacant" type="6pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d1" electronStatus="vacant" type="o-6dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d2" electronStatus="vacant" type="o-6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d3" electronStatus="vacant" type="o-6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6d4" electronStatus="vacant" type="o-6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="6d5" electronStatus="vacant" type="o-6dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="104" period= "7" block="d" group="4" name="Rutherfordium" symbol="Rf" charge="0" chargeCount="0" state="neutral" atomicMass="261" electroNegativity="0">
+		<electronLink id="a1e1" title="6d1" electronStatus="uPair" type="i-6dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="6d2" electronStatus="uPair" type="i-6dyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="6d3" electronStatus="vacant" type="i-6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="6d4" electronStatus="vacant" type="i-6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="6d5" electronStatus="vacant" type="i-6dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="7s" electronStatus="lPair" type="7s" spin="2" charge="" chargeCount=""/>
+		<electronLink id="a1e7" title="7p1" electronStatus="vacant" type="7px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="7p2" electronStatus="vacant" type="7py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="7p3" electronStatus="vacant" type="7pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="7d1" electronStatus="vacant" type="o-7dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="7d2" electronStatus="vacant" type="o-7dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="7d3" electronStatus="vacant" type="o-7dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7d4" electronStatus="vacant" type="o-7dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="7d5" electronStatus="vacant" type="o-7dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	
+	
+	<atomFragment id="a1" atNo="41" period= "5" block="d" group="5" name="Niobium" symbol="Nb" charge="0" chargeCount="0" state="neutral" atomicMass="92.91" electroNegativity="1.6">
+		<electronLink id="a1e1" title="4d1" electronStatus="uPair" type="i-4dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4d2" electronStatus="uPair" type="i-4dyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4d3" electronStatus="uPair" type="i-4dzx" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4d4" electronStatus="vacant" type="i-4dx2-y2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4d5" electronStatus="vacant" type="i-4dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5s" electronStatus="lPair" type="5s" spin="1" charge="00" chargeCount="0"/>
+		<electronLink id="a1e7" title="5p1" electronStatus="vacant" type="5px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5p2" electronStatus="vacant" type="5py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5p3" electronStatus="vacant" type="5pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d1" electronStatus="vacant" type="o-5dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d2" electronStatus="vacant" type="o-5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d3" electronStatus="vacant" type="o-5dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="5d4" electronStatus="vacant" type="o-5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="5d5" electronStatus="vacant" type="o-5dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="73" period= "6" block="d" group="5" name="Tantalum" symbol="Ta" charge="0" chargeCount="0" state="neutral" atomicMass="180.95" electroNegativity="1.5">
+		<electronLink id="a1e1" title="5d1" electronStatus="uPair" type="i-5dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="d2" electronStatus="uPair" type="i-5dyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5d3" electronStatus="uPair" type="i-5dzx" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5d4" electronStatus="vacant" type="i-5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5d5" electronStatus="vacant" type="i-5dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="6p1" electronStatus="vacant" type="6px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6p2" electronStatus="vacant" type="6py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6p3" electronStatus="vacant" type="6pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d1" electronStatus="vacant" type="o-6dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d2" electronStatus="vacant" type="o-6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d3" electronStatus="vacant" type="o-6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6d4" electronStatus="vacant" type="o-6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="6d5" electronStatus="vacant" type="o-6dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="105" period= "7" block="d" group="5" name="Dubnium" symbol="Db" charge="0" chargeCount="0" state="neutral" atomicMass="262" electroNegativity="">
+		<electronLink id="a1e1" title="6d1" electronStatus="uPair" type="i-6dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="d2" electronStatus="uPair" type="i-6dyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="6d3" electronStatus="uPair" type="i-6dzx" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="6d4" electronStatus="vacant" type="i-6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="6d5" electronStatus="vacant" type="i-6dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="7p1" electronStatus="vacant" type="7px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="7p2" electronStatus="vacant" type="7py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="7p3" electronStatus="vacant" type="7pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="7d1" electronStatus="vacant" type="o-7dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="7d2" electronStatus="vacant" type="o-7dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="7d3" electronStatus="vacant" type="o-7dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7d4" electronStatus="vacant" type="o-7dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="7d5" electronStatus="vacant" type="o-7dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	
+	<atomFragment id="a1" atNo="42" period= "5" block="d" group="6" name="Molybdenum" symbol="Mo" charge="0" chargeCount="0" state="neutral" atomicMass="95.94" electroNegativity="2.16">
+		<electronLink id="a1e1" title="4d1" electronStatus="uPair" type="i-4dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4d2" electronStatus="uPair" type="i-4dyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4d3" electronStatus="uPair" type="i-4dzx" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4d4" electronStatus="uPair" type="i-4dx2-y2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4d5" electronStatus="vacant" type="i-4dz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5s" electronStatus="lPair" type="5s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5p1" electronStatus="vacant" type="5px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5p2" electronStatus="vacant" type="5py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5p3" electronStatus="vacant" type="5pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d1" electronStatus="vacant" type="o-5dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d2" electronStatus="vacant" type="o-5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d3" electronStatus="vacant" type="o-5dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="5d4" electronStatus="vacant" type="o-5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="5d5" electronStatus="vacant" type="o-5dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="74" period= "6" block="d" group="6" name="Tungsten" symbol="W" charge="0" chargeCount="0" state="neutral" atomicMass="183.84" electroNegativity="2.36">
+		<electronLink id="a1e1" title="5d1" electronStatus="uPair" type="i-5dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5d2" electronStatus="uPair" type="i-5dyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5d3" electronStatus="uPair" type="i-5dzx" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5d4" electronStatus="uPair" type="i-5dx2-y2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5d5" electronStatus="vacant" type="i-5dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="6p1" electronStatus="vacant" type="6px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6p2" electronStatus="vacant" type="6py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6p3" electronStatus="vacant" type="6pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d1" electronStatus="vacant" type="o-6dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d2" electronStatus="vacant" type="o-6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d3" electronStatus="vacant" type="o-6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6d4" electronStatus="vacant" type="o-6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="6d5" electronStatus="vacant" type="o-6dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="106" period= "7" block="d" group="6" name="Seaborgium" symbol="Sg" charge="" chargeCount="" state="neutral" atomicMass="263" electroNegativity="">
+		<electronLink id="a1e1" title="6d1" electronStatus="uPair" type="i-6dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="6d2" electronStatus="uPair" type="i-6dyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="d3" electronStatus="uPair" type="i-6dzx" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="6d4" electronStatus="uPair" type="i-6dx2-y2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="6d5" electronStatus="vacant" type="i-6dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="7p1" electronStatus="vacant" type="7px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="7p2" electronStatus="vacant" type="7py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="7p3" electronStatus="vacant" type="7pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="7d1" electronStatus="vacant" type="o-7dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="7d2" electronStatus="vacant" type="o-7dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="7d3" electronStatus="vacant" type="o-7dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7d4" electronStatus="vacant" type="o-7dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="7d5" electronStatus="vacant" type="o-7dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	
+	<atomFragment id="a1" atNo="43" period= "5" block="d" group="7" name="Technetium" symbol="Tc" charge="0" chargeCount="0" state="neutral" atomicMass="98.91" electroNegativity="1.9">
+		<electronLink id="a1e1" title="4d1" electronStatus="uPair" type="i-4dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4d2" electronStatus="uPair" type="i-4dyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4d3" electronStatus="uPair" type="i-4dzx" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4d4" electronStatus="uPair" type="i-4dx2-y2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4d5" electronStatus="uPair" type="i-4dz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5s" electronStatus="lPair" type="5s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5p1" electronStatus="vacant" type="5px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5p2" electronStatus="vacant" type="5py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5p3" electronStatus="vacant" type="5pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d1" electronStatus="vacant" type="o-5dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d2" electronStatus="vacant" type="o-5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d3" electronStatus="vacant" type="o-5dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="5d4" electronStatus="vacant" type="o-5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="5d5" electronStatus="vacant" type="o-5dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="75" period= "6" block="d" group="7" name="Rhenium" symbol="Re" charge="0" chargeCount="0" state="neutral" atomicMass="186.21" electroNegativity="1.9">
+		<electronLink id="a1e1" title="5d1" electronStatus="uPair" type="i-5dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5d2" electronStatus="uPair" type="i-5dyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5d3" electronStatus="uPair" type="i-5dzx" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5d4" electronStatus="uPair" type="i-5dx2-y2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5d5" electronStatus="uPair" type="i-5dz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="6p1" electronStatus="vacant" type="6px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6p2" electronStatus="vacant" type="6py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6p3" electronStatus="vacant" type="6pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d1" electronStatus="vacant" type="o-6dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d2" electronStatus="vacant" type="o-6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d3" electronStatus="vacant" type="o-6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6d4" electronStatus="vacant" type="o-6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="6d5" electronStatus="vacant" type="o-6dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="107" period= "7" block="d" group="7" name="Bohrium" symbol="Bh" charge="" chargeCount="" state="neutral" atomicMass="264" electroNegativity="">
+		<electronLink id="a1e1" title="6d1" electronStatus="uPair" type="i-6dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="6d2" electronStatus="uPair" type="i-6dyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="6d3" electronStatus="uPair" type="i-6dzx" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="6d4" electronStatus="uPair" type="i-6dx2-y2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="6d5" electronStatus="uPair" type="i-6dz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="7p1" electronStatus="vacant" type="7px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="7p2" electronStatus="vacant" type="7py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="7p3" electronStatus="vacant" type="7pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="7d1" electronStatus="vacant" type="o-7dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="7d2" electronStatus="vacant" type="o-7dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="7d3" electronStatus="vacant" type="o-7dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7d4" electronStatus="vacant" type="o-7dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="7d5" electronStatus="vacant" type="o-7dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	
+	<atomFragment id="a1" atNo="44" period= "5" block="d" group="8" name="Ruthenium" symbol="Ru" charge="0" chargeCount="0" state="neutral" atomicMass="101.07" electroNegativity="2.2">
+		<electronLink id="a1e1" title="4d1" electronStatus="lPair" type="i-4dxy" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4d2" electronStatus="uPair" type="i-4dyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4d3" electronStatus="uPair" type="i-4dzx" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4d4" electronStatus="uPair" type="i-4dx2-y2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4d5" electronStatus="uPair" type="i-4dz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5s" electronStatus="lPair" type="5s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5p1" electronStatus="vacant" type="5px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5p2" electronStatus="vacant" type="5py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5p3" electronStatus="vacant" type="5pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d1" electronStatus="vacant" type="o-5dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d2" electronStatus="vacant" type="o-5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d3" electronStatus="vacant" type="o-5dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="5d4" electronStatus="vacant" type="o-5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="5d5" electronStatus="vacant" type="o-5dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="76" period= "6" block="d" group="8" name="Osmium" symbol="Os" charge="0" chargeCount="0" state="neutral" atomicMass="190.23" electroNegativity="2.2">
+		<electronLink id="a1e1" title="5d1" electronStatus="lPair" type="i-5dxy" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5d2" electronStatus="uPair" type="i-5dyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5d3" electronStatus="uPair" type="i-5dzx" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5d4" electronStatus="uPair" type="i-5dx2-y2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5d5" electronStatus="uPair" type="i-5dz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="6p1" electronStatus="vacant" type="6px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6p2" electronStatus="vacant" type="6py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6p3" electronStatus="vacant" type="6pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d1" electronStatus="vacant" type="o-6dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d2" electronStatus="vacant" type="o-6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d3" electronStatus="vacant" type="o-6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6d4" electronStatus="vacant" type="o-6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="6d5" electronStatus="vacant" type="o-6dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="108" period= "7" block="d" group="8" name="Hassium" symbol="Hs" charge="" chargeCount="" state="neutral" atomicMass="265" electroNegativity="">
+		<electronLink id="a1e1" title="6d1" electronStatus="lPair" type="i-6dxy" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="d2" electronStatus="uPair" type="i-6dyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="6d3" electronStatus="uPair" type="i-6dzx" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="6d4" electronStatus="uPair" type="i-6dx2-y2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="6d5" electronStatus="uPair" type="i-6dz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="7p1" electronStatus="vacant" type="7px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="7p2" electronStatus="vacant" type="7py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="7p3" electronStatus="vacant" type="7pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="7d1" electronStatus="vacant" type="o-7dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="7d2" electronStatus="vacant" type="o-7dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="7d3" electronStatus="vacant" type="o-7dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7d4" electronStatus="vacant" type="o-7dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="7d5" electronStatus="vacant" type="o-7dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	
+	<atomFragment id="a1" atNo="45" period= "5" block="d" group="9" name="Rhodium" symbol="Rh" charge="0" chargeCount="0" state="neutral" atomicMass="102.91" electroNegativity="2.28">
+		<electronLink id="a1e1" title="4d1" electronStatus="lPair" type="i-4dxy" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4d2" electronStatus="lPair" type="i-4dyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4d3" electronStatus="uPair" type="i-4dzx" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4d4" electronStatus="uPair" type="i-4dx2-y2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4d5" electronStatus="uPair" type="i-4dz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5s" electronStatus="lPair" type="5s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5p1" electronStatus="vacant" type="5px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5p2" electronStatus="vacant" type="5py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5p3" electronStatus="vacant" type="5pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d1" electronStatus="vacant" type="o-5dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d2" electronStatus="vacant" type="o-5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d3" electronStatus="vacant" type="o-5dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="5d4" electronStatus="vacant" type="o-5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="5d5" electronStatus="vacant" type="o-5dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="77" period= "6" block="d" group="9" name="Iridium" symbol="Ir" charge="0" chargeCount="0" state="neutral" atomicMass="192.22" electroNegativity="2.2">
+		<electronLink id="a1e1" title="5d1" electronStatus="lPair" type="i-5dxy" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5d2" electronStatus="lPair" type="i-5dyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5d3" electronStatus="uPair" type="i-5dzx" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5d4" electronStatus="uPair" type="i-5dx2-y2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5d5" electronStatus="uPair" type="i-5dz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="6p1" electronStatus="vacant" type="6px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6p2" electronStatus="vacant" type="6py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6p3" electronStatus="vacant" type="6pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d1" electronStatus="vacant" type="o-6dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d2" electronStatus="vacant" type="o-6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d3" electronStatus="vacant" type="o-6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6d4" electronStatus="vacant" type="o-6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="6d5" electronStatus="vacant" type="o-6dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="109" period= "7" block="d" group="9" name="Meitnerium" symbol="Mt" charge="0" chargeCount="0" state="neutral" atomicMass="268" electroNegativity="">
+		<electronLink id="a1e1" title="6d1" electronStatus="lPair" type="i-6dxy" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="6d2" electronStatus="lPair" type="i-6dyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="6d3" electronStatus="uPair" type="i-6dzx" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="6d4" electronStatus="uPair" type="i-6dx2-y2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="6d5" electronStatus="uPair" type="i-6dz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="7p1" electronStatus="vacant" type="7px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="7p2" electronStatus="vacant" type="7py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="7p3" electronStatus="vacant" type="7pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="7d1" electronStatus="vacant" type="o-7dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="7d2" electronStatus="vacant" type="o-7dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="7d3" electronStatus="vacant" type="o-7dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7d4" electronStatus="vacant" type="o-7dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="7d5" electronStatus="vacant" type="o-7dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	
+	<atomFragment id="a1" atNo="46" period= "5" block="d" group="10" name="Palladium" symbol="Pd" charge="0" chargeCount="0" state="neutral" atomicMass="106.41" electroNegativity="2.2">
+		<electronLink id="a1e1" title="4d1" electronStatus="lPair" type="i-4dxy" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4d2" electronStatus="lPair" type="i-4dyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4d3" electronStatus="lPair" type="i-4dzx" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4d4" electronStatus="uPair" type="i-4dx2-y2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4d5" electronStatus="uPair" type="i-4dz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5s" electronStatus="lPair" type="5s" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5p1" electronStatus="vacant" type="5px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5p2" electronStatus="vacant" type="5py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5p3" electronStatus="vacant" type="5pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d1" electronStatus="vacant" type="o-5dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d2" electronStatus="vacant" type="o-5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d3" electronStatus="vacant" type="o-5dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="5d4" electronStatus="vacant" type="o-5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="5d5" electronStatus="vacant" type="o-5dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="78" period= "6" block="d" group="10" name="Platinum" symbol="Pt" charge="0" chargeCount="0" state="neutral" atomicMass="195.08" electroNegativity="2.28">
+		<electronLink id="a1e1" title="5d1" electronStatus="lPair" type="i-5dxy" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5d2" electronStatus="lPair" type="i-5dyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5d3" electronStatus="lPair" type="i-5dzx" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5d4" electronStatus="uPair" type="i-5dx2-y2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5d5" electronStatus="uPair" type="i-5dz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="6s" electronStatus="lPair" type="6s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="6p1" electronStatus="vacant" type="6px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6p2" electronStatus="vacant" type="6py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6p3" electronStatus="vacant" type="6pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d1" electronStatus="vacant" type="o-6dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d2" electronStatus="vacant" type="o-6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d3" electronStatus="vacant" type="o-6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6d4" electronStatus="vacant" type="o-6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="6d5" electronStatus="vacant" type="o-6dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="110" period= "7" block="d" group="10" name="Darmstadtium" symbol="Ds" charge="0" chargeCount="0" state="neutral" atomicMass="281" electroNegativity="">
+		<electronLink id="a1e1" title="6d1" electronStatus="lPair" type="i-6dxy" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="6d2" electronStatus="lPair" type="i-6dyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="6d3" electronStatus="lPair" type="i-6dzx" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="6d4" electronStatus="uPair" type="i-6dx2-y2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="6d5" electronStatus="uPair" type="i-6dz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="7s" electronStatus="lPair" type="7s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="7p1" electronStatus="vacant" type="7px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="7p2" electronStatus="vacant" type="7py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="7p3" electronStatus="vacant" type="7pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="7d1" electronStatus="vacant" type="o-7dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="7d2" electronStatus="vacant" type="o-7dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="7d3" electronStatus="vacant" type="o-7dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7d4" electronStatus="vacant" type="o-7dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="7d5" electronStatus="vacant" type="o-7dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	
+	<atomFragment id="a1" atNo="47" period= "5" block="d" group="11" name="Silver" symbol="Ag" charge="0" chargeCount="0" state="neutral" atomicMass="107.87" electroNegativity="1.93">
+		<electronLink id="a1e1" title="4d1" electronStatus="lPair" type="i-4dxy" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4d2" electronStatus="lPair" type="i-4dyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4d3" electronStatus="lPair" type="i-4dzx" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4d4" electronStatus="lPair" type="i-4dx2-y2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4d5" electronStatus="uPair" type="i-4dz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5s" electronStatus="lPair" type="5s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5p1" electronStatus="vacant" type="5px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5p2" electronStatus="vacant" type="5py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5p3" electronStatus="vacant" type="5pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d1" electronStatus="vacant" type="o-5dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d2" electronStatus="vacant" type="o-5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d3" electronStatus="vacant" type="o-5dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="5d4" electronStatus="vacant" type="o-5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="5d5" electronStatus="vacant" type="o-5dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="79" period= "6" block="d" group="11" name="Gold" symbol="Au" charge="0" chargeCount="0" state="neutral" atomicMass="196.97" electroNegativity="2.54">
+		<electronLink id="a1e1" title="5d1" electronStatus="lPair" type="i-5dxy" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5d2" electronStatus="lPair" type="i-5dyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5d3" electronStatus="lPair" type="i-5dzx" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5d4" electronStatus="lPair" type="i-5dx2-y2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5d5" electronStatus="uPair" type="i-5dz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="6s" electronStatus="lPair" type="6s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="6p1" electronStatus="vacant" type="6px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6p2" electronStatus="vacant" type="6py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6p3" electronStatus="vacant" type="6pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d1" electronStatus="vacant" type="o-6dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d2" electronStatus="vacant" type="o-6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d3" electronStatus="vacant" type="o-6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6d4" electronStatus="vacant" type="o-6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="6d5" electronStatus="vacant" type="o-6dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="111" period= "7" block="d" group="11" name="Roentgenium" symbol="Rg" charge="0" chargeCount="0" state="neutral" atomicMass="272" electroNegativity="">
+		<electronLink id="a1e1" title="6d1" electronStatus="lPair" type="i-6dxy" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="6d2" electronStatus="lPair" type="i-6dyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="6d3" electronStatus="lPair" type="i-6dzx" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="6d4" electronStatus="lPair" type="i-6dx2-y2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="6d5" electronStatus="uPair" type="i-6dz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="7s" electronStatus="lPair" type="7s" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="7p1" electronStatus="vacant" type="7px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="7p2" electronStatus="vacant" type="7py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="7p3" electronStatus="vacant" type="7pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="7d1" electronStatus="vacant" type="o-7dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="7d2" electronStatus="vacant" type="o-7dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="7d3" electronStatus="vacant" type="o-7dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7d4" electronStatus="vacant" type="o-7dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="7d5" electronStatus="vacant" type="o-7dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	
+	<atomFragment id="a1" atNo="48" period= "5" block="d" group="12" name="Cadmium" symbol="Cd" charge="0" chargeCount="0" state="neutral" atomicMass="112.41" electroNegativity="1.69">
+		<electronLink id="a1e1" title="4d1" electronStatus="lPair" type="i-4dxy" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4d2" electronStatus="lPair" type="i-4dyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4d3" electronStatus="lPair" type="i-4dzx" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4d4" electronStatus="lPair" type="i-4dx2-y2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4d5" electronStatus="lPair" type="i-4dz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5s" electronStatus="lPair" type="5s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5p1" electronStatus="vacant" type="5px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5p2" electronStatus="vacant" type="5py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5p3" electronStatus="vacant" type="5pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d1" electronStatus="vacant" type="o-5dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d2" electronStatus="vacant" type="o-5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d3" electronStatus="vacant" type="o-5dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="5d4" electronStatus="vacant" type="o-5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="5d5" electronStatus="vacant" type="o-5dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="80" period= "6" block="d" group="12" name="Mercury" symbol="Hg" charge="0" chargeCount="0" state="neutral" atomicMass="200.60" electroNegativity="2.0">
+		<electronLink id="a1e1" title="5d1" electronStatus="lPair" type="i-5dxy" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5d2" electronStatus="lPair" type="i-5dyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5d3" electronStatus="lPair" type="i-5dzx" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5d4" electronStatus="lPair" type="i-5dx2-y2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5d5" electronStatus="lPair" type="i-5dz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="6p1" electronStatus="vacant" type="6px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6p2" electronStatus="vacant" type="6py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6p3" electronStatus="vacant" type="6pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d1" electronStatus="vacant" type="o-6dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d2" electronStatus="vacant" type="o-6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d3" electronStatus="vacant" type="o-6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6d4" electronStatus="vacant" type="o-6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="6d5" electronStatus="vacant" type="o-6dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="112" period= "7" block="d" group="12" name="Copernicium" symbol="Cn" charge="0" chargeCount="0" state="neutral" atomicMass="277" electroNegativity="">
+		<electronLink id="a1e1" title="6d1" electronStatus="lPair" type="i-6dxy" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="6d2" electronStatus="lPair" type="i-6dyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="d3" electronStatus="lPair" type="i-6dzx" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="6d4" electronStatus="lPair" type="i-6dx2-y2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="6d5" electronStatus="lPair" type="i-6dz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="7p1" electronStatus="vacant" type="7px" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="7p2" electronStatus="vacant" type="7py" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="7p3" electronStatus="vacant" type="7pz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="7d1" electronStatus="vacant" type="o-7dxy" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="7d2" electronStatus="vacant" type="o-7dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="7d3" electronStatus="vacant" type="o-7dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7d4" electronStatus="vacant" type="o-7dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e14" title="7d5" electronStatus="vacant" type="o-7dz2" spin="0" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<fBlock/>
+	<atomFragment  id="a1" atNo="58" period= "6" block="f" group="Lanthanide" name="Cerium" symbol="Ce" charge="0" chargeCount="0" state="neutral" atomicMass="140.12" electroNegativity="1.12">
+		<electronLink id="a1e1" title="4f1" electronStatus="uPair" type="4fz3" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4f2" electronStatus="vacant" type="4fxz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4f3" electronStatus="vacant" type="4fyz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4f4" electronStatus="vacant" type="4fxyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4f5" electronStatus="vacant" type="4fz(x2-y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4f6" electronStatus="vacant" type="4fx(x2-3y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4f7" electronStatus="vacant" type="4fy(3x2-y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5d1" electronStatus="uPair" type="5dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5d2" electronStatus="vacant" type="5dxz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d3" electronStatus="vacant" type="5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d4" electronStatus="vacant" type="5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d5" electronStatus="vacant" type="5dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="59" period= "6" block="f" group="Lanthanide" name="Praseodymium" symbol="Pr" charge="0" chargeCount="0" state="neutral" atomicMass="140.91" electroNegativity="1.13">
+		<electronLink id="a1e1" title="4f1" electronStatus="uPair" type="4fz3" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4f2" electronStatus="uPair" type="4fxz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4f3" electronStatus="vacant" type="4fyz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4f4" electronStatus="vacant" type="4fxyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4f5" electronStatus="vacant" type="4fz(x2-y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4f6" electronStatus="vacant" type="4fx(x2-3y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4f7" electronStatus="vacant" type="4fy(3x2-y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5d1" electronStatus="uPair" type="5dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5d2" electronStatus="vacant" type="5dxz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d3" electronStatus="vacant" type="5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d4" electronStatus="vacant" type="5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d5" electronStatus="vacant" type="5dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="60" period= "6" block="f" group="Lanthanide" name="Neodymium" symbol="Nd" charge="0" chargeCount="0" state="neutral" atomicMass="144.24" electroNegativity="1.14">
+		<electronLink id="a1e1" title="4f1" electronStatus="uPair" type="4fz3" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4f2" electronStatus="uPair" type="4fxz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4f3" electronStatus="uPair" type="4fyz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4f4" electronStatus="vacant" type="4fxyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4f5" electronStatus="vacant" type="4fz(x2-y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4f6" electronStatus="vacant" type="4fx(x2-3y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4f7" electronStatus="vacant" type="4fy(3x2-y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5d1" electronStatus="uPair" type="5dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5d2" electronStatus="vacant" type="5dxz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d3" electronStatus="vacant" type="5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d4" electronStatus="vacant" type="5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d5" electronStatus="vacant" type="5dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="61" period= "6" block="f" group="Lanthanide" name="Promethium" symbol="Pm" charge="0" chargeCount="0" state="neutral" atomicMass="145" electroNegativity="1.14">
+		<electronLink id="a1e1" title="4f1" electronStatus="uPair" type="4fz3" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4f2" electronStatus="uPair" type="4fxz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4f3" electronStatus="uPair" type="4fyz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4f4" electronStatus="uPair" type="4fxyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4f5" electronStatus="vacant" type="4fz(x2-y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4f6" electronStatus="vacant" type="4fx(x2-3y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4f7" electronStatus="vacant" type="4fy(3x2-y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5d1" electronStatus="uPair" type="5dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5d2" electronStatus="vacant" type="5dxz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d3" electronStatus="vacant" type="5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d4" electronStatus="vacant" type="5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d5" electronStatus="vacant" type="5dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="62" period= "6" block="f" group="Lanthanide" name="Samarium" symbol="Sm" charge="0" chargeCount="0" state="neutral" atomicMass="150.37" electroNegativity="1.17">
+		<electronLink id="a1e1" title="4f1" electronStatus="uPair" type="4fz3" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4f2" electronStatus="uPair" type="4fxz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4f3" electronStatus="uPair" type="4fyz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4f4" electronStatus="uPair" type="4fxyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4f5" electronStatus="uPair" type="4fz(x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4f6" electronStatus="vacant" type="4fx(x2-3y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4f7" electronStatus="vacant" type="4fy(3x2-y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5d1" electronStatus="uPair" type="5dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5d2" electronStatus="vacant" type="5dxz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d3" electronStatus="vacant" type="5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d4" electronStatus="vacant" type="5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d5" electronStatus="vacant" type="5dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="63" period= "6" block="f" group="Lanthanide" name="Europium" symbol="Eu" charge="0" chargeCount="0" state="neutral" atomicMass="151.96" electroNegativity="1.17">
+		<electronLink id="a1e1" title="4f1" electronStatus="uPair" type="4fz3" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4f2" electronStatus="uPair" type="4fxz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4f3" electronStatus="uPair" type="4fyz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4f4" electronStatus="uPair" type="4fxyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4f5" electronStatus="uPair" type="4fz(x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4f6" electronStatus="uPair" type="4fx(x2-3y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4f7" electronStatus="vacant" type="4fy(3x2-y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5d1" electronStatus="uPair" type="5dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5d2" electronStatus="vacant" type="5dxz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d3" electronStatus="vacant" type="5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d4" electronStatus="vacant" type="5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d5" electronStatus="vacant" type="5dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="64" period= "6" block="f" group="Lanthanide" name="Gadolinium" symbol="Gd" charge="0" chargeCount="0" state="neutral" atomicMass="151.96" electroNegativity="1.20">
+		<electronLink id="a1e1" title="4f1" electronStatus="uPair" type="4fz3" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4f2" electronStatus="uPair" type="4fxz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4f3" electronStatus="uPair" type="4fyz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4f4" electronStatus="uPair" type="4fxyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4f5" electronStatus="uPair" type="4fz(x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4f6" electronStatus="uPair" type="4fx(x2-3y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4f7" electronStatus="uPair" type="4fy(3x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5d1" electronStatus="uPair" type="5dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5d2" electronStatus="vacant" type="5dxz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d3" electronStatus="vacant" type="5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d4" electronStatus="vacant" type="5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d5" electronStatus="vacant" type="5dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="65" period= "6" block="f" group="Lanthanide" name="Terbium" symbol="Tb" charge="0" chargeCount="0" state="neutral" atomicMass="158.93" electroNegativity="1.20">
+		<electronLink id="a1e1" title="4f1" electronStatus="lPair" type="4fz3" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4f2" electronStatus="uPair" type="4fxz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4f3" electronStatus="uPair" type="4fyz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4f4" electronStatus="uPair" type="4fxyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4f5" electronStatus="uPair" type="4fz(x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4f6" electronStatus="uPair" type="4fx(x2-3y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4f7" electronStatus="uPair" type="4fy(3x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5d1" electronStatus="uPair" type="5dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5d2" electronStatus="vacant" type="5dxz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d3" electronStatus="vacant" type="5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d4" electronStatus="vacant" type="5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d5" electronStatus="vacant" type="5dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="66" period= "6" block="f" group="Lanthanide" name="Dysprosium" symbol="Dy" charge="0" chargeCount="0" state="neutral" atomicMass="162.50" electroNegativity="1.22">
+		<electronLink id="a1e1" title="4f1" electronStatus="lPair" type="4fz3" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4f2" electronStatus="lPair" type="4fxz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4f3" electronStatus="uPair" type="4fyz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4f4" electronStatus="uPair" type="4fxyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4f5" electronStatus="uPair" type="4fz(x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4f6" electronStatus="uPair" type="4fx(x2-3y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4f7" electronStatus="uPair" type="4fy(3x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5d1" electronStatus="uPair" type="5dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5d2" electronStatus="vacant" type="5dxz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d3" electronStatus="vacant" type="5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d4" electronStatus="vacant" type="5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d5" electronStatus="vacant" type="5dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="67" period= "6" block="f" group="Lanthanide" name="Holmium" symbol="Ho" charge="0" chargeCount="0" state="neutral" atomicMass="164.93" electroNegativity="1.23">
+		<electronLink id="a1e1" title="4f1" electronStatus="lPair" type="4fz3" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4f2" electronStatus="lPair" type="4fxz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4f3" electronStatus="lPair" type="4fyz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4f4" electronStatus="uPair" type="4fxyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4f5" electronStatus="uPair" type="4fz(x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4f6" electronStatus="uPair" type="4fx(x2-3y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4f7" electronStatus="uPair" type="4fy(3x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5d1" electronStatus="uPair" type="5dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5d2" electronStatus="vacant" type="5dxz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d3" electronStatus="vacant" type="5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d4" electronStatus="vacant" type="5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d5" electronStatus="vacant" type="5dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="68" period= "6" block="f" group="Lanthanide" name="Erbium" symbol="Er" charge="0" chargeCount="0" state="neutral" atomicMass="167.26" electroNegativity="1.24">
+		<electronLink id="a1e1" title="4f1" electronStatus="lPair" type="4fz3" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4f2" electronStatus="lPair" type="4fxz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4f3" electronStatus="lPair" type="4fyz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4f4" electronStatus="lPair" type="4fxyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4f5" electronStatus="uPair" type="4fz(x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4f6" electronStatus="uPair" type="4fx(x2-3y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4f7" electronStatus="uPair" type="4fy(3x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5d1" electronStatus="uPair" type="5dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5d2" electronStatus="vacant" type="5dxz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d3" electronStatus="vacant" type="5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d4" electronStatus="vacant" type="5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d5" electronStatus="vacant" type="5dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="69" period= "6" block="f" group="Lanthanide" name="Thulium" symbol="Tm" charge="0" chargeCount="0" state="neutral" atomicMass="168.93" electroNegativity="1.25">
+		<electronLink id="a1e1" title="4f1" electronStatus="lPair" type="4fz3" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4f2" electronStatus="lPair" type="4fxz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4f3" electronStatus="lPair" type="4fyz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4f4" electronStatus="lPair" type="4fxyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4f5" electronStatus="lPair" type="4fz(x2-y2)" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4f6" electronStatus="uPair" type="4fx(x2-3y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4f7" electronStatus="uPair" type="4fy(3x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5d1" electronStatus="uPair" type="5dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5d2" electronStatus="vacant" type="5dxz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d3" electronStatus="vacant" type="5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d4" electronStatus="vacant" type="5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d5" electronStatus="vacant" type="5dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="70" period= "6" block="f" group="Lanthanide" name="Ytterbium" symbol="Yb" charge="0" chargeCount="0" state="neutral" atomicMass="173.04" electroNegativity="1.25">
+		<electronLink id="a1e1" title="4f1" electronStatus="lPair" type="4fz3" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4f2" electronStatus="lPair" type="4fxz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4f3" electronStatus="lPair" type="4fyz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4f4" electronStatus="lPair" type="4fxyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4f5" electronStatus="lPair" type="4fz(x2-y2)" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4f6" electronStatus="lPair" type="4fx(x2-3y2)" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4f7" electronStatus="uPair" type="4fy(3x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5d1" electronStatus="uPair" type="5dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5d2" electronStatus="vacant" type="5dxz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d3" electronStatus="vacant" type="5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d4" electronStatus="vacant" type="5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d5" electronStatus="vacant" type="5dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="71" period= "6" block="f" group="Lanthanide" name="Lutetium" symbol="Lu" charge="0" chargeCount="0" state="neutral" atomicMass="174.97" electroNegativity="1.27">
+		<electronLink id="a1e1" title="4f1" electronStatus="lPair" type="4fz3" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="4f2" electronStatus="lPair" type="4fxz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="4f3" electronStatus="lPair" type="4fyz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="4f4" electronStatus="lPair" type="4fxyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="4f5" electronStatus="lPair" type="4fz(x2-y2)" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="4f6" electronStatus="lPair" type="4fx(x2-3y2)" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="4f7" electronStatus="lPair" type="4fy(3x2-y2)" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="5d1" electronStatus="uPair" type="5dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="5d2" electronStatus="vacant" type="5dxz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="5d3" electronStatus="vacant" type="5dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="5d4" electronStatus="vacant" type="5dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="5d5" electronStatus="vacant" type="5dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="6s" electronStatus="lPair" type="6s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	
+	
+	<atomFragment id="a1" atNo="90" period= "7" block="f" group="Actinide" name="Thorium" symbol="Th" charge="0" chargeCount="0" state="neutral" atomicMass="232.04" electroNegativity="1.3">
+		<electronLink id="a1e1" title="5f1" electronStatus="uPair" type="5fz3" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5f2" electronStatus="vacant" type="5fxz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5f3" electronStatus="vacant" type="5fyz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5f4" electronStatus="vacant" type="5fxyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5f5" electronStatus="vacant" type="5fz(x2-y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5f6" electronStatus="vacant" type="5fx(x2-3y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5f7" electronStatus="vacant" type="5fy(3x2-y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6d1" electronStatus="uPair" type="6dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6d2" electronStatus="vacant" type="6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d3" electronStatus="vacant" type="6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d4" electronStatus="vacant" type="6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d5" electronStatus="vacant" type="6dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="91" period= "7" block="f" group="Actinide" name="Protactinium" symbol="Pr" charge="0" chargeCount="0" state="neutral" atomicMass="231.04" electroNegativity="1.5">
+		<electronLink id="a1e1" title="5f1" electronStatus="uPair" type="5fz3" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5f2" electronStatus="uPair" type="5fxz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5f3" electronStatus="vacant" type="5fyz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5f4" electronStatus="vacant" type="5fxyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5f5" electronStatus="vacant" type="5fz(x2-y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5f6" electronStatus="vacant" type="5fx(x2-3y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5f7" electronStatus="vacant" type="5fy(3x2-y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6d1" electronStatus="uPair" type="6dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6d2" electronStatus="vacant" type="6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d3" electronStatus="vacant" type="6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d4" electronStatus="vacant" type="6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d5" electronStatus="vacant" type="6dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="92" period= "7" block="f" group="Actinide" name="Uranium" symbol="U" charge="0" chargeCount="0" state="neutral" atomicMass="238.03" electroNegativity="1.38">
+		<electronLink id="a1e1" title="5f1" electronStatus="uPair" type="5fz3" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5f2" electronStatus="uPair" type="5fxz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5f3" electronStatus="uPair" type="5fyz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5f4" electronStatus="vacant" type="5fxyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5f5" electronStatus="vacant" type="5fz(x2-y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5f6" electronStatus="vacant" type="5fx(x2-3y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5f7" electronStatus="vacant" type="5fy(3x2-y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6d1" electronStatus="uPair" type="6dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6d2" electronStatus="vacant" type="6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d3" electronStatus="vacant" type="6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d4" electronStatus="vacant" type="6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d5" electronStatus="vacant" type="6dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="93" period= "7" block="f" group="Actinide" name="Neptunium" symbol="Np" charge="0" chargeCount="0" state="neutral" atomicMass="237.05" electroNegativity="1.36">
+		<electronLink id="a1e1" title="5f1" electronStatus="uPair" type="5fz3" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5f2" electronStatus="uPair" type="5fxz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5f3" electronStatus="uPair" type="5fyz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5f4" electronStatus="uPair" type="5fxyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5f5" electronStatus="vacant" type="5fz(x2-y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5f6" electronStatus="vacant" type="5fx(x2-3y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5f7" electronStatus="vacant" type="5fy(3x2-y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6d1" electronStatus="uPair" type="6dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6d2" electronStatus="vacant" type="6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d3" electronStatus="vacant" type="6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d4" electronStatus="vacant" type="6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d5" electronStatus="vacant" type="6dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="94" period= "7" block="f" group="Actinide" name="Plutonium" symbol="Pu" charge="0" chargeCount="0" state="neutral" atomicMass="244.06" electroNegativity="1.28">
+		<electronLink id="a1e1" title="5f1" electronStatus="uPair" type="5fz3" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5f2" electronStatus="uPair" type="5fxz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5f3" electronStatus="uPair" type="5fyz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5f4" electronStatus="uPair" type="5fxyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5f5" electronStatus="uPair" type="5fz(x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5f6" electronStatus="vacant" type="5fx(x2-3y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5f7" electronStatus="vacant" type="5fy(3x2-y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6d1" electronStatus="uPair" type="6dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6d2" electronStatus="vacant" type="6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d3" electronStatus="vacant" type="6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d4" electronStatus="vacant" type="6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d5" electronStatus="vacant" type="6dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="95" period= "7" block="f" group="Actinide" name="Americium" symbol="Am" charge="0" chargeCount="0" state="neutral" atomicMass="243.06" electroNegativity="1.3">
+		<electronLink id="a1e1" title="5f1" electronStatus="uPair" type="5fz3" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5f2" electronStatus="uPair" type="5fxz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5f3" electronStatus="uPair" type="5fyz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5f4" electronStatus="uPair" type="5fxyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5f5" electronStatus="uPair" type="5fz(x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5f6" electronStatus="uPair" type="5fx(x2-3y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5f7" electronStatus="vacant" type="5fy(3x2-y2)" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6d1" electronStatus="uPair" type="6dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6d2" electronStatus="vacant" type="6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d3" electronStatus="vacant" type="6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d4" electronStatus="vacant" type="6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d5" electronStatus="vacant" type="6dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="96" period= "7" block="f" group="Actinide" name="Curium" symbol="Cm" charge="0" chargeCount="0" state="neutral" atomicMass="247.07" electroNegativity="1.3">
+		<electronLink id="a1e1" title="5f1" electronStatus="uPair" type="5fz3" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5f2" electronStatus="uPair" type="5fxz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5f3" electronStatus="uPair" type="5fyz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5f4" electronStatus="uPair" type="5fxyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5f5" electronStatus="uPair" type="5fz(x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5f6" electronStatus="uPair" type="5fx(x2-3y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5f7" electronStatus="uPair" type="5fy(3x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6d1" electronStatus="uPair" type="6dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6d2" electronStatus="vacant" type="6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d3" electronStatus="vacant" type="6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d4" electronStatus="vacant" type="6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d5" electronStatus="vacant" type="6dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="97" period= "7" block="f" group="Actinide" name="Berkelelium" symbol="Bk" charge="0" chargeCount="0" state="neutral" atomicMass="247.07" electroNegativity="1.3">
+		<electronLink id="a1e1" title="5f1" electronStatus="lPair" type="5fz3" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5f2" electronStatus="uPair" type="5fxz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5f3" electronStatus="uPair" type="5fyz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5f4" electronStatus="uPair" type="5fxyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5f5" electronStatus="uPair" type="5fz(x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5f6" electronStatus="uPair" type="5fx(x2-3y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5f7" electronStatus="uPair" type="5fy(3x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6d1" electronStatus="uPair" type="6dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6d2" electronStatus="vacant" type="6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d3" electronStatus="vacant" type="6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d4" electronStatus="vacant" type="6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d5" electronStatus="vacant" type="6dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="98" period= "7" block="f" group="Actinide" name="Californium" symbol="Cf" charge="0" chargeCount="0" state="neutral" atomicMass="251.08" electroNegativity="1.3">
+		<electronLink id="a1e1" title="5f1" electronStatus="lPair" type="5fz3" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5f2" electronStatus="lPair" type="5fxz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5f3" electronStatus="uPair" type="5fyz2" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5f4" electronStatus="uPair" type="5fxyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5f5" electronStatus="uPair" type="5fz(x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5f6" electronStatus="uPair" type="5fx(x2-3y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5f7" electronStatus="uPair" type="5fy(3x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6d1" electronStatus="uPair" type="6dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6d2" electronStatus="vacant" type="6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d3" electronStatus="vacant" type="6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d4" electronStatus="vacant" type="6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d5" electronStatus="vacant" type="6dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+		
+	<atomFragment id="a1" atNo="99" period= "7" block="f" group="Actinide" name="Einsteinium" symbol="Es" charge="0" chargeCount="0" state="neutral" atomicMass="252.08" electroNegativity="1.3">
+		<electronLink id="a1e1" title="5f1" electronStatus="lPair" type="5fz3" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5f2" electronStatus="lPair" type="5fxz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5f3" electronStatus="lPair" type="5fyz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5f4" electronStatus="uPair" type="5fxyz" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5f5" electronStatus="uPair" type="5fz(x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5f6" electronStatus="uPair" type="5fx(x2-3y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5f7" electronStatus="uPair" type="5fy(3x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6d1" electronStatus="uPair" type="6dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6d2" electronStatus="vacant" type="6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d3" electronStatus="vacant" type="6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d4" electronStatus="vacant" type="6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d5" electronStatus="vacant" type="6dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="100" period= "7" block="f" group="Actinide" name="Fermium" symbol="Fm" charge="0" chargeCount="0" state="neutral" atomicMass="257.10" electroNegativity="1.3">
+		<electronLink id="a1e1" title="5f1" electronStatus="lPair" type="5fz3" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5f2" electronStatus="lPair" type="5fxz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5f3" electronStatus="lPair" type="5fyz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5f4" electronStatus="lPair" type="5fxyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5f5" electronStatus="uPair" type="5fz(x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5f6" electronStatus="uPair" type="5fx(x2-3y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5f7" electronStatus="uPair" type="5fy(3x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6d1" electronStatus="uPair" type="6dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6d2" electronStatus="vacant" type="6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d3" electronStatus="vacant" type="6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d4" electronStatus="vacant" type="6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d5" electronStatus="vacant" type="6dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="101" period= "7" block="f" group="Actinide" name="Mendelevium" symbol="Md" charge="0" chargeCount="0" state="neutral" atomicMass="258.10" electroNegativity="1.3">
+		<electronLink id="a1e1" title="5f1" electronStatus="lPair" type="5fz3" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5f2" electronStatus="lPair" type="5fxz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5f3" electronStatus="lPair" type="5fyz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5f4" electronStatus="lPair" type="5fxyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5f5" electronStatus="lPair" type="5fz(x2-y2)" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5f6" electronStatus="uPair" type="5fx(x2-3y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5f7" electronStatus="uPair" type="5fy(3x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6d1" electronStatus="uPair" type="6dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6d2" electronStatus="vacant" type="6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d3" electronStatus="vacant" type="6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d4" electronStatus="vacant" type="6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d5" electronStatus="vacant" type="6dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="102" period= "7" block="f" group="Actinide" name="Nobelium" symbol="No" charge="0" chargeCount="0" state="neutral" atomicMass="259.10" electroNegativity="1.3">
+		<electronLink id="a1e1" title="5f1" electronStatus="lPair" type="5fz3" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5f2" electronStatus="lPair" type="5fxz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5f3" electronStatus="lPair" type="5fyz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5f4" electronStatus="lPair" type="5fxyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5f5" electronStatus="lPair" type="5fz(x2-y2)" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5f6" electronStatus="lPair" type="5fx(x2-3y2)" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5f7" electronStatus="uPair" type="5fy(3x2-y2)" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6d1" electronStatus="uPair" type="6dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6d2" electronStatus="vacant" type="6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d3" electronStatus="vacant" type="6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d4" electronStatus="vacant" type="6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d5" electronStatus="vacant" type="6dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+	<atomFragment id="a1" atNo="103" period= "7" block="f" group="Actinide" name="Lawrencium" symbol="Lr" charge="0" chargeCount="0" state="neutral" atomicMass="262.11" electroNegativity="x">
+		<electronLink id="a1e1" title="5f1" electronStatus="lPair" type="5fz3" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e2" title="5f2" electronStatus="lPair" type="5fxz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e3" title="5f3" electronStatus="lPair" type="5fyz2" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e4" title="5f4" electronStatus="lPair" type="5fxyz" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e5" title="5f5" electronStatus="lPair" type="5fz(x2-y2)" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e6" title="5f6" electronStatus="lPair" type="5fx(x2-3y2)" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e7" title="5f7" electronStatus="lPair" type="5fy(3x2-y2)" spin="2" charge="0" chargeCount="0"/>
+		<electronLink id="a1e8" title="6d1" electronStatus="uPair" type="6dxy" spin="1" charge="0" chargeCount="0"/>
+		<electronLink id="a1e9" title="6d2" electronStatus="vacant" type="6dyz" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e10" title="6d3" electronStatus="vacant" type="6dzx" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e11" title="6d4" electronStatus="vacant" type="6dx2-y2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e12" title="6d5" electronStatus="vacant" type="6dz2" spin="0" charge="0" chargeCount="0"/>
+		<electronLink id="a1e13" title="7s" electronStatus="lPair" type="7s" spin="2" charge="0" chargeCount="0"/>
+	</atomFragment>
+	
+</atomFragmentList>

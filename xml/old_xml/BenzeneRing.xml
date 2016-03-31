@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<fragment title="BenzeneRing" type="SkeletonFragment" symbol="C6" smiles="c1ccccc1">
+    <atom id="a1" title="Carbon" hybridization="sp2" symbol="C" electroNegativity="2.55" position="1" isotopeLabel=""
+        orientation="300">
+        <electronLink id="a1e1" title="s" type="2s" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="sigma" order="double" target="a2e1" linkStatus="link" priority="2.6" gcCode="db@C"/>
+        <electronLink id="a1e2" title="p1" type="2px" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="sigma" order="single" target="a6e2" linkStatus="link" priority="1.6" gcCode="sb@C"/>
+        <electronLink id="a1e3" title="p2" type="2py" electronStatus="uPair" charge="0" chargeCount="0"
+            affinity="covalent" bond="" order="" target="" linkStatus="" priority="" gcCode=""/>
+        <electronLink id="a1e4" title="p3" type="2pz" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="pi-z" order="double" target="a2e4" linkStatus="link" priority="" gcCode=""/>
+    </atom>
+    <atom id="a2" title="Carbon" hybridization="sp2" symbol="C" electroNegativity="2.55" position="2" isotopeLabel=""
+        orientation="60">
+        <electronLink id="a2e1" title="s" type="2s" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="sigma" order="double" target="a1e1" linkStatus="link" priority="2.6" gcCode="db@C"/>
+        <electronLink id="a2e2" title="p1" type="2px" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="sigma" order="single" target="a3e1" linkStatus="link" priority="1.6" gcCode="sb@C"/>
+        <electronLink id="a2e3" title="p2" type="2py" electronStatus="uPair" charge="0" chargeCount="0"
+            affinity="covalent" bond="" order="" target="" linkStatus="" priority="" gcCode=""/>
+        <electronLink id="a2e4" title="p3" type="2pz" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="pi-z" order="double" target="a1e4" linkStatus="link" priority="" gcCode=""/>
+    </atom>
+    <atom id="a3" title="Carbon" hybridization="sp2" symbol="C" electroNegativity="2.55" position="3" isotopeLabel=""
+        orientation="60">
+        <electronLink id="a3e1" title="s" type="2s" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="sigma" order="single" target="a2e2" linkStatus="link" priority="1.6" gcCode="sb@C"/>
+        <electronLink id="a3e2" title="p1" type="2px" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="sigma" order="double" target="a4e1" linkStatus="link" priority="2.6" gcCode="db@C"/>
+        <electronLink id="a3e3" title="p2" type="2py" electronStatus="uPair" charge="0" chargeCount="0"
+            affinity="covalent" bond="" order="" target="" linkStatus="" priority="" gcCode=""/>
+        <electronLink id="a3e4" title="p3" type="2pz" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="pi-z" order="double" target="a4e4" linkStatus="link" priority="" gcCode=""/>
+    </atom>
+    <atom id="a4" title="Carbon" hybridization="sp2" symbol="C" electroNegativity="2.55" position="4" isotopeLabel=""
+        orientation="60">
+        <electronLink id="a4e1" title="s" type="2s" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="sigma" order="double" target="a3e2" linkStatus="link" priority="2.6" gcCode="db@C"/>
+        <electronLink id="a4e2" title="p1" type="2px" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="sigma" order="single" target="a5e1" linkStatus="link" priority="1.6" gcCode="sb@C"/>
+        <electronLink id="a4e3" title="p2" type="2py" electronStatus="uPair" charge="0" chargeCount="0"
+            affinity="covalent" bond="" order="" target="" linkStatus="" priority="" gcCode=""/>
+        <electronLink id="a4e4" title="p3" type="2pz" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="pi-z" order="double" target="a3e4" linkStatus="link" priority="" gcCode=""/>
+    </atom>
+    <atom id="a5" title="Carbon" hybridization="sp2" symbol="C" electroNegativity="2.55" position="5" isotopeLabel=""
+        orientation="60">
+        <electronLink id="a5e1" title="s" type="2s" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="sigma" order="single" target="a4e2" linkStatus="link" priority="1.6" gcCode="sb@C"/>
+        <electronLink id="a5e2" title="p1" type="2px" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="sigma" order="double" target="a6e1" linkStatus="link" priority="2.6" gcCode="db@C"/>
+        <electronLink id="a5e3" title="p2" type="2py" electronStatus="uPair" charge="0" chargeCount="0"
+            affinity="covalent" bond="" order="" target="" linkStatus="" priority="" gcCode=""/>
+        <electronLink id="a5e4" title="p3" type="2pz" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="pi-z" order="double" target="a6e4" linkStatus="link" priority="" gcCode=""/>
+    </atom>
+    <atom id="a6" title="Carbon" hybridization="sp2" symbol="C" electroNegativity="2.55" position="6" isotopeLabel=""
+        orientation="60">
+        <electronLink id="a6e1" title="s" type="2s" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="sigma" order="double" target="a5e2" linkStatus="link" priority="2.6" gcCode="db@C"/>
+        <electronLink id="a6e2" title="p1" type="2px" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="sigma" order="single" target="a1e2" linkStatus="link" priority="1.6" gcCode="sb@C"/>
+        <electronLink id="a6e3" title="p2" type="2py" electronStatus="uPair" charge="0" chargeCount="0"
+            affinity="covalent" bond="" order="" target="" linkStatus="" priority="" gcCode=""/>
+        <electronLink id="a6e4" title="p3" type="2pz" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="pi-z" order="double" target="a5e4" linkStatus="link" priority="" gcCode=""/>
+    </atom>
+</fragment>

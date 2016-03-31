@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<fragment title="OneMemberSkeleton" type="SkeletonFragment" symbol="C" smiles="C">
+    <atom id="a1" title="Carbon" hybridization="sp3" symbol="C" electroNegativity="2.55" position="0" isotopeLabel=""
+        orientation="">
+        <electronLink id="a1e1" title="2s" type="2s" electronStatus="lPair" charge="0" chargeCount="0"
+            affinity="" bond="" order="" bondType="" target="" linkStatus="" priority="" gcCode=""/>
+        <electronLink id="a1e2" title="2p1" type="2px" electronStatus="uPair" charge="0" chargeCount="0"
+            affinity="" bond="" order="" bondType="" target="" linkStatus="" priority="" gcCode=""/>
+        <electronLink id="a1e3" title="2p2" type="2py" electronStatus="uPair" charge="0" chargeCount="0"
+            affinity="" bond="" order="" bondType="" target="" linkStatus="" priority="" gcCode=""/>
+        <electronLink id="a1e4" title="2p3" type="2pz" electronStatus="vacant" charge="0" chargeCount="0"
+            affinity="" bond="" order="" bondType="" target="" linkStatus="" priority="" gcCode=""/>
+    </atom>
+</fragment>

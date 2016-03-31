@@ -1,0 +1,207 @@
+	button {
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+	border-radius:6px;
+}
+button:hover
+{
+	background: linear-gradient(to top, rgba(233,245,247,1) 0%,rgba(233,245,247,1) 7%,rgba(233,245,247,1) 12%,rgba(254,254,254,1) 12%,rgba(237,243,247,1) 30%,rgba(215,228,237,1) 54%,rgba(206,219,232,1) 75%,rgba(196,208,226,1) 100%);
+}
+body {
+    font-size: 50%;
+    font-family: "Ubuntu",sans-serif;
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.row {
+	border-bottom: thin solid #879AB7;
+	background: linear-gradient(to bottom, rgba(233,245,247,1) 0%,rgba(233,245,247,1) 7%,rgba(233,245,247,1) 12%,rgba(254,254,254,1) 12%,rgba(237,243,247,1) 30%,rgba(215,228,237,1) 54%,rgba(206,219,232,1) 75%,rgba(196,208,226,1) 100%);
+}
+.row td{
+	padding-top: 0.3%;
+}
+.row .cell{
+	padding-top: 0px;	
+}
+.row .cell:hover{
+background: linear-gradient(to top, rgba(233,245,247,1) 0%,rgba(233,245,247,1) 7%,rgba(233,245,247,1) 12%,rgba(254,254,254,1) 12%,rgba(237,243,247,1) 30%,rgba(215,228,237,1) 54%,rgba(206,219,232,1) 75%,rgba(196,208,226,1) 100%);
+cursor:pointer;
+}
+#login:hover{
+background: linear-gradient(to top, rgba(233,245,247,1) 0%,rgba(233,245,247,1) 7%,rgba(233,245,247,1) 12%,rgba(254,254,254,1) 12%,rgba(237,243,247,1) 30%,rgba(215,228,237,1) 54%,rgba(206,219,232,1) 75%,rgba(196,208,226,1) 100%);
+cursor:pointer;
+}
+#login{
+font-family:arial;
+text-align:center;
+}
+.table{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	border-collapse: collapse;
+}
+.menu{
+width:10%;
+background-color: #F4F6F6;
+border: thin solid #879AB7;
+font-family:'arial';
+border-collapse: collapse;
+box-shadow: 5px 5px 10px #879AB7;
+display:none;
+}
+
+.menu td:hover {
+    background: linear-gradient(to bottom, rgba(233,245,247,1) 0%,rgba(233,245,247,1) 7%,rgba(233,245,247,1) 12%,rgba(254,254,254,1) 12%,rgba(237,243,247,1) 30%,rgba(215,228,237,1) 54%,rgba(206,219,232,1) 75%,rgba(196,208,226,1) 100%);
+} 
+.menu td{
+text-decoration: none;
+color:black;
+font-size:11px;
+border-bottom: thin solid #879AB7;
+padding:5%;
+cursor:pointer;
+}
+
+.menu_login{
+width:10%;
+background-color: #F4F6F6;
+border: thin solid #879AB7;
+font-family:'arial';
+border-collapse: collapse;
+box-shadow: -5px 5px 10px #879AB7;
+display:none;
+}
+.menu_login td{
+text-decoration: none;
+color:black;
+font-size:11px;
+border-bottom: thin solid #879AB7;
+padding:5%;
+}
+#login_submit{
+background: linear-gradient(to bottom, rgba(233,245,247,1) 0%,rgba(233,245,247,1) 7%,rgba(233,245,247,1) 12%,rgba(254,254,254,1) 12%,rgba(237,243,247,1) 30%,rgba(215,228,237,1) 54%,rgba(206,219,232,1) 75%,rgba(196,208,226,1) 100%);
+text-align:center;
+cursor:pointer;
+}
+td input{
+color:black;
+font-size:11px;
+padding:3%;
+}
+#t_file{
+position:absolute;
+top:23px;
+left:3px;
+z-index:-1;
+}
+#t_caption{
+position:absolute;
+top:23px;
+left:50px;
+z-index:-1;
+}
+#t_template{
+position:absolute;
+top:23px;
+left:120px;
+z-index:-1;
+}
+#t_ligand{
+position:absolute;
+top:23px;
+left:120px;
+z-index:-1;
+}
+#t_login{
+position:absolute;
+top:23px;
+left:120px;
+z-index:-1;
+}
+#t_logged{
+position:absolute;
+top:23px;
+left:120px;
+z-index:-1;
+}
+a{
+text-decoration:none;
+color:black;
+font-family:'arial';
+font-size:'7px';
+cursor:pointer;
+}
+#periodic-table {
+border-collapse: collapse;
+border-style:none;
+}
+#periodic-table td {
+border-style:none;
+}
+#periodic-table tr {
+border-style:none;
+}
+#f-block {
+border-collapse:collapse;
+}
+#periodic-table td {
+width:20px;
+height:20px;
+font-size:10px;
+}
+#f-block td {
+width:20px;
+height:20px;
+font-size:10px;
+}
+.element_nonmetal{
+background: linear-gradient(to bottom, #bfd255 0%,#8eb92a 50%,#72aa00 51%,#9ecb2d 100%);
+border:thin solid black !important;
+}
+.element_NG{
+background: linear-gradient(to bottom, #f0b7a1 16%,#bf6e4e 51%);
+border:thin solid black !important;
+}
+.element_AM{
+background: linear-gradient(to bottom, #fce6bc 0%,#fcc24e 50%,#f8a500 51%,#fbd893 100%);
+border:thin solid black !important;
+}
+.element_AEM{
+background: linear-gradient(to bottom, #ebe9f9 0%,#d8d0ef 50%,#cec7ec 51%,#c1bfea 100%);
+border:thin solid black !important;
+}
+.element_BM{
+background: linear-gradient(to bottom, #fcecfc 0%,#fba6e1 50%,#fd89d7 51%,#ff7cd8 100%); 
+border:thin solid black !important;
+}
+.element_halogens{
+background: linear-gradient(to bottom, #b7deed 0%,#71ceef 50%,#21b4e2 51%,#b7deed 100%);
+border:thin solid black !important;
+}
+.element_semimetals{
+background: linear-gradient(to bottom, #feccb1 0%,#f17432 50%,#ea5507 51%,#fb955e 100%);
+border:thin solid black !important;
+}
+.element_TM{
+background: linear-gradient(to bottom, #fefcea 0%,#f1da36 100%); 
+border:thin solid black !important;
+}
+.element_Lanthanoids{
+background: linear-gradient(to bottom, #febbbb 24%,#ff5c5c 44%,#fe9090 86%);
+border:thin solid black !important;
+}
+.element_active{
+background: linear-gradient(to bottom, #d2ff52 28%,#91e842 60%);
+border:thin solid black !important;
+}

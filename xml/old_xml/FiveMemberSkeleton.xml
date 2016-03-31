@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<fragment title="FiveMemberSkeleton" type="SkeletonFragment" symbol="C5" smiles="CCCCC">
+    <atom id="a1" title="Carbon" hybridization="sp3" symbol="C" electroNegativity="2.55" position="0" isotopeLabel=""
+        orientation="">
+	<electronLink id="a1e1" title="2sp3" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="sigma" order="single" target="a2e1" linkStatus="link" priority="1.6" gcCode="sb@C"/>        
+        <electronLink id="a1e2" title="2sp3" electronStatus="uPair" charge="0" chargeCount="0"
+            affinity="covalent" bond="" order="" target="" linkStatus="" priority="" gcCode=""/>
+        <electronLink id="a1e3" title="2sp3" electronStatus="uPair" charge="0" chargeCount="0"
+            affinity="covalent" bond="" order="" target="" linkStatus="" priority="" gcCode=""/>
+        <electronLink id="a1e4" title="2sp3" electronStatus="uPair" charge="0" chargeCount="0"
+            affinity="covalent" bond="" order="" target="" linkStatus="" priority="" gcCode=""/>
+    </atom>
+    <atom id="a2" title="Carbon" hybridization="sp3" symbol="C" electroNegativity="2.55" position="0" isotopeLabel=""
+        orientation="">
+        <electronLink id="a2e1" title="2sp3" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="sigma" order="single" target="a1e1" linkStatus="link" priority="1.6" gcCode="sb@C"/>
+        <electronLink id="a2e2" title="2sp3" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="sigma" order="single" target="a3e1" linkStatus="link" priority="1.6" gcCode="sb@C"/>
+        <electronLink id="a2e3" title="2sp3" electronStatus="uPair" charge="0" chargeCount="0"
+            affinity="covalent" bond="" order="" target="" linkStatus="" priority="" gcCode=""/>
+        <electronLink id="a2e4" title="2sp3" electronStatus="uPair" charge="0" chargeCount="0"
+            affinity="covalent" bond="" order="" target="" linkStatus="" priority="" gcCode=""/>
+    </atom>
+    <atom id="a3" title="Carbon" hybridization="sp3" symbol="C" electroNegativity="2.55" position="0" isotopeLabel=""
+        orientation="">
+        <electronLink id="a3e1" title="2sp3" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="sigma" order="single" target="a2e2" linkStatus="link" priority="1.6" gcCode="sb@C"/>
+        <electronLink id="a3e2" title="2sp3" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="sigma" order="single" target="a4e1" linkStatus="link" priority="1.6" gcCode="sb@C"/>
+        <electronLink id="a3e3" title="2sp3" electronStatus="uPair" charge="0" chargeCount="0"
+            affinity="covalent" bond="" order="" target="" linkStatus="" priority="" gcCode=""/>
+        <electronLink id="a3e4" title="2sp3" electronStatus="uPair" charge="0" chargeCount="0"
+            affinity="covalent" bond="" order="" target="" linkStatus="" priority="" gcCode=""/>
+    </atom>
+    <atom id="a4" title="Carbon" hybridization="sp3" symbol="C" electroNegativity="2.55" position="0" isotopeLabel=""
+        orientation="">
+        <electronLink id="a4e1" title="2sp3" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="sigma" order="single" target="a3e2" linkStatus="link" priority="1.6" gcCode="sb@C"/>
+        <electronLink id="a4e2" title="2sp3" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="sigma" order="single" target="a5e1" linkStatus="link" priority="1.6" gcCode="sb@C"/>
+        <electronLink id="a4e3" title="2sp3" electronStatus="uPair" charge="0" chargeCount="0"
+            affinity="covalent" bond="" order="" target="" linkStatus="" priority="" gcCode=""/>
+        <electronLink id="a4e4" title="2sp3" electronStatus="uPair" charge="0" chargeCount="0"
+            affinity="covalent" bond="" order="" target="" linkStatus="" priority="" gcCode=""/>
+    </atom>
+    <atom id="a5" title="Carbon" hybridization="sp3" symbol="C" electroNegativity="2.55" position="0" isotopeLabel=""
+        orientation="">
+        <electronLink id="a5e1" title="2sp3" electronStatus="bPair" charge="0" chargeCount="0"
+            affinity="" bond="sigma" order="single" target="a4e2" linkStatus="link" priority="1.6" gcCode="sb@C"/>
+        <electronLink id="a5e2" title="2sp3" electronStatus="uPair" charge="0" chargeCount="0"
+            affinity="covalent" bond="" order="" target="" linkStatus="" priority="" gcCode=""/>
+        <electronLink id="a5e3" title="2sp3" electronStatus="uPair" charge="0" chargeCount="0"
+            affinity="covalent" bond="" order="" target="" linkStatus="" priority="" gcCode=""/>
+        <electronLink id="a5e4" title="2sp3" electronStatus="uPair" charge="0" chargeCount="0"
+            affinity="covalent" bond="" order="" target="" linkStatus="" priority="" gcCode=""/>
+    </atom>
+</fragment>
